@@ -1,0 +1,50 @@
+/team add 1212 B(
+/team add 1212 B(1B)
+/team add 1212 B
+/team join 1212 Makino_18
+/team join 1212 kakami
+/teammsg jiajiameinihao
+/tp kakami
+/tp Stainess Makino_18
+/advancement grant kakami only minecraft:adventure/sniper_duel
+/give Makino_18 minecraft:structure_block
+/fill -462 74 937 -496 74 924 air
+/fill -462 74 937 -496 64 924 air
+/kill @e[type=item]
+/fill -496 70 938 -462 64 938 minecraft:white_stained_glass
+/fill -497 70 926 -497 64 937 minecraft:white_stained_glass
+/fill -466 65 920 -470 70 920 minecraft:white_stained_glass
+/fill -461 65 921 -461 70 924 minecraft:white_stained_glass
+/fill -476 70 920 -492 65 920 minecraft:white_stained_glass
+/fill -497 72 937 -497 75 921 minecraft:white_stained_glass
+/fill -496 72 920 -462 75 920 minecraft:white_stained_glass
+/fill -461 75 921 -461 72 937 minecraft:white_stained_glass
+/fill -462 72 938 -496 75 938 minecraft:white_stained_glass
+/fill -496 76 937 -462 76 921 minecraft:white_stained_glass
+/ld
+/ld status
+/ld entity
+/ld top
+/ld ui
+/ld status
+/ld entity
+/ld mspt
+/clone 1101 256 681 1019 256 681 1019 256 683
+/clone 1101 256 681 1019 256 681 969 256 683
+/clone 1101 256 681 1019 256 681 969 256 681
+/clone 1101 256 681 1019 256 681 961 256 681
+/clone 1101 256 681 1019 256 681 949 256 681
+/clone 1101 256 681 1019 256 681 933 256 681
+/fill 1100 255 679 909 255 680 air
+/fill 909 255 682 1100 256 682 air
+/fill 1100 255 685 909 255 684 air
+/clone 968 256 681 909 256 681 909 256 683
+/fill 1101 255 680 1101 259 679 air
+/fill 1101 255 680 1125 259 679 air
+/fill 1127 255 681 1133 259 654 air
+/fill 1124 255 637 1125 259 678 air
+/fill 1127 255 653 1133 256 637 air
+/fill 1136 255 637 1135 259 685 air
+/fill 1134 255 684 1101 259 685 air
+/fill 1101 259 683 1134 259 681 air
+/fill 903 255 681 850 255 681 minecraft:smooth_stone

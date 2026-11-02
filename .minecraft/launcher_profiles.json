@@ -1,0 +1,27 @@
+{
+  "profiles": {
+    "PCL": {
+      "icon": "Grass",
+      "name": "PCL",
+      "lastVersionId": "latest-release",
+      "type": "latest-release",
+      "lastUsed": "2026-06-29T21:13:16+08:00"
+    }
+  },
+  "selectedProfile": "PCL",
+  "clientToken": "5bded61d525d43c18cf21d7e08fb3d01",
+  "authenticationDatabase": {
+    "00000111112222233333444445555566": {
+      "username": "Makino_18",
+      "profiles": {
+        "66666555554444433333222221111100": {
+          "displayName": "Makino_18"
+        }
+      }
+    }
+  },
+  "selectedUser": {
+    "account": "00000111112222233333444445555566",
+    "profile": "66666555554444433333222221111100"
+  }
+}

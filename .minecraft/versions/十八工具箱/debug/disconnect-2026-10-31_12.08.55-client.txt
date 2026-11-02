@@ -1,0 +1,261 @@
+---- Minecraft Network Protocol Error Report ----
+// Sabotage!
+
+Time: 2026-10-31 12:08:55
+Description: Packet handling error
+
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at knot//io.netty.buffer.AdaptivePoolingAllocator$AdaptiveByteBuf.setBytes(AdaptivePoolingAllocator.java:1824)
+	at knot//io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1139)
+	at knot//io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at knot//io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:153)
+	at knot//io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at knot//io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)
+	at knot//io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at knot//io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at knot//io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Netty NIO IO #5
+Stacktrace:
+	at knot//net.minecraft.class_2547.method_55622(class_2547.java:33)
+
+-- Connection --
+Details:
+	Protocol: play
+	Flow: CLIENTBOUND
+	Is Local: false
+	Server type: OTHER
+	Server brand: fabric
+Stacktrace:
+	at knot//net.minecraft.class_2547.method_55622(class_2547.java:33)
+	at knot//net.minecraft.class_2600.method_59803(class_2600.java:47)
+	at knot//net.minecraft.class_8673.method_60882(class_8673.java:146)
+	at knot//net.minecraft.class_8673.method_60881(class_8673.java:137)
+	at knot//net.minecraft.class_2535.exceptionCaught(class_2535.java:134)
+	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
+	at knot//io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
+	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
+	at knot//io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
+	at knot//io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:127)
+	at knot//io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:179)
+	at knot//io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
+	at knot//io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)
+	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)
+	at knot//io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
+	at knot//io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
+	at knot//io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+-- Dynamic Lighting --
+Details:
+	Description: This section contains information related to dynamic lighting, this may not be related to your crash.
+	Mode: off
+	Dynamic Light Sources: 0
+	Spatial Hash Occupancy: 0 / 1024
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.11
+	Minecraft Version ID: 1.21.11
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 394208792 bytes (375 MiB) / 1140850688 bytes (1088 MiB) up to 9563013120 bytes (9120 MiB)
+	CPUs: 32
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i9-14900HX
+	Identifier: Intel64 Family 6 Model 183 Stepping 1
+	Microarchitecture: Raptor Lake
+	Frequency (GHz): 2.42
+	Number of physical packages: 1
+	Number of physical CPUs: 24
+	Number of logical CPUs: 32
+	Graphics card #0 name: Intel(R) UHD Graphics
+	Graphics card #0 vendor: Intel Corporation
+	Graphics card #0 VRAM (MiB): 2048.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.101.7076
+	Graphics card #1 name: NVIDIA GeForce RTX 5060 Laptop GPU
+	Graphics card #1 vendor: NVIDIA
+	Graphics card #1 VRAM (MiB): 8151.00
+	Graphics card #1 deviceId: VideoController2
+	Graphics card #1 versionInfo: 32.0.16.1664
+	Memory slot #0 capacity (MiB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 5.60
+	Memory slot #0 type: DDR5
+	Memory slot #1 capacity (MiB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 5.60
+	Memory slot #1 type: DDR5
+	Virtual memory max (MiB): 37099.87
+	Virtual memory used (MiB): 20240.79
+	Swap memory total (MiB): 4608.00
+	Swap memory used (MiB): 260.21
+	Space in storage for jna.tmpdir (MiB): available: 128538.61, total: 657044.00
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 128538.61, total: 657044.00
+	Space in storage for io.netty.native.workdir (MiB): available: 128538.61, total: 657044.00
+	Space in storage for java.io.tmpdir (MiB): available: 28615.47, total: 245761.00
+	Space in storage for workdir (MiB): available: 128538.61, total: 657044.00
+	JVM Flags: 12 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:-OmitStackTraceInFastThrow -Xmx9113m -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40
+	Debug Flags: 0 total; 
+	Fabric Mods: 
+		alexscaves: Alex's Caves Continued 1.1.2
+		alexsmobs: Alex's Mobs Continued 2.2.3
+		appleskin: AppleSkin 3.0.8+mc1.21.11
+		architectury: Architectury 19.0.1
+		autoswitch: AutoSwitch 14.1.0
+		badpackets: Bad Packets 0.11.2
+		betteradvancements: Better Advancements 0.4.8.54
+		betterf3: BetterF3 17.0.0
+		carpet: Carpet Mod 1.4.194+v251223
+		chat_heads: Chat Heads 1.2.4
+		chatanimation: ChatAnimation 1.2.0
+		cloth-config: Cloth Config v20 21.11.153
+			cloth-basic-math: cloth-basic-math 0.6.1
+		codxlib: CodxLib 1.6.1
+		collective: Collective 8.32
+		connectedglass: Connected Glass 1.1.14
+		controlling: Controlling 29.0.1
+		cratedelight: Crate Delight 26.7.1-1.21.7-fabric
+		customskinloader-bootstrap: CustomSkinLoader Bootstrap 15.1
+		diggusmaximus: Diggus Maximus Reborn 1.7.9
+		displaydelight: Display Delight [Fabric] 1.8.0-mc1.21.11
+		durabilityviewer: Durability Viewer 1.21.11-1.11.2
+		eastersdelight: Easter's Delight 1.1.0
+		fabric-api: Fabric API 0.141.6+1.21.11
+			fabric-api-base: Fabric API Base 1.0.5+4ebb5c083e
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.114+20dc27073e
+			fabric-biome-api-v1: Fabric Biome API (v1) 17.1.1+4fc5413f3e
+			fabric-block-api-v1: Fabric Block API (v1) 1.1.10+4ebb5c083e
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.39+4ebb5c083e
+			fabric-command-api-v2: Fabric Command API (v2) 2.4.7+6b42a6003e
+			fabric-content-registries-v0: Fabric Content Registries (v0) 10.2.14+4fc5413f3e
+			fabric-convention-tags-v1: Fabric Convention Tags 2.1.55+7f945d5b3e
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.17.3+8ef948ba3e
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.3.23+4ebb5c083e
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.8.48+eed0806f3e
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 23.5.0+88d7da613e
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.28+4fc5413f3e
+			fabric-entity-events-v1: Fabric Entity Events (v1) 3.1.1+1d0ab4303e
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 4.1.1+3b89ecf63e
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 2.0.3+4fc5413f3e
+			fabric-item-api-v1: Fabric Item API (v1) 11.6.0+67f17bb43e
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.2.36+4fc5413f3e
+			fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.1.7+4fc5413f3e
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.6.15+4ebb5c083e
+			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.73+3f89f5a53e
+			fabric-loot-api-v3: Fabric Loot API (v3) 2.0.20+78c8b4663e
+			fabric-message-api-v1: Fabric Message API (v1) 6.1.12+4ebb5c083e
+			fabric-model-loading-api-v1: Fabric Model Loading API (v1) 6.0.15+4fc5413f3e
+			fabric-networking-api-v1: Fabric Networking API (v1) 5.1.6+6b6d71a53e
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 21.1.40+4fc5413f3e
+			fabric-particles-v1: Fabric Particles (v1) 4.2.12+4fc5413f3e
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 8.2.4+4ebb5c083e
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 6.2.6+1718722b3e
+			fabric-renderer-api-v1: Fabric Renderer API (v1) 8.0.3+f4ffd2e53e
+			fabric-renderer-indigo: Fabric Renderer - Indigo 5.0.3+f4ffd2e53e
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.43+4ebb5c083e
+			fabric-rendering-v1: Fabric Rendering (v1) 16.2.10+0290ad933e
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 5.0.35+4fc5413f3e
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 3.3.4+4fc5413f3e
+			fabric-resource-loader-v1: Fabric Resource Loader (v1) 1.0.10+78c8b4663e
+			fabric-screen-api-v1: Fabric Screen API (v1) 3.1.7+4ebb5c083e
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.162+4fc5413f3e
+			fabric-serialization-api-v1: Fabric Serialization API (v1) 1.0.5+4ebb5c083e
+			fabric-sound-api-v1: Fabric Sound API (v1) 1.0.51+4fc5413f3e
+			fabric-tag-api-v1: Fabric Tag API (v1) 1.3.0+88d7da613e
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 6.0.25+4fc5413f3e
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 7.1.0+014c8cec3e
+		fabric-language-kotlin: Fabric Language Kotlin 1.13.13+kotlin.2.4.10
+			org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 2.4.10
+			org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 2.4.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 2.4.10
+			org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 2.4.10
+			org_jetbrains_kotlinx_atomicfu-jvm: atomicfu-jvm 0.33.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.11.0
+			org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.11.0
+			org_jetbrains_kotlinx_kotlinx-datetime-jvm: kotlinx-datetime-jvm 0.8.0
+			org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm: kotlinx-io-bytestring-jvm 0.9.1
+			org_jetbrains_kotlinx_kotlinx-io-core-jvm: kotlinx-io-core-jvm 0.9.1
+			org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm: kotlinx-serialization-cbor-jvm 1.11.0
+			org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.11.0
+			org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.11.0
+		fabricloader: Fabric Loader 0.19.3
+			mixinextras: MixinExtras 0.5.4
+		farmersdelight: Farmer's Delight 1.21.11-3.6.16+refabricated
+		frightsdelight: Fright's Delight 1.4.7
+			midnightlib: MidnightLib 1.9.2
+		fusion: Fusion 1.3.15
+		fwaystones: Fabric Waystones 3.3.6+mc1.21.11
+		gammautils: Gamma Utils 2.5.10
+		gca_wrapper: gugle-carpet-addition-Wrapper 1.0.4
+			gca: gugle-carpet-addition 2.12.4-mc1.21.11+build.88
+				jep_jep: jep 2.24
+		i18nupdatemod: I18nUpdateMod 3.7.0
+		imblocker: IMBlocker 6.1.4
+		inventoryprofilesnext: Inventory Profiles Next 2.2.6
+		inventorytotem: Inventory Totem 3.4
+		java: OpenJDK 64-Bit Server VM 21
+		lambdynlights: LambDynamicLights 4.9.1+1.21.11
+			lambdynlights_runtime: LambDynamicLights (Runtime) 4.9.1+1.21.11
+				lambdynlights_api: LambDynamicLights (API) 4.9.1+1.21.11
+					yumi_commons_collections: Yumi Commons: Collections 1.0.0
+					yumi_commons_core: Yumi Commons: Core 1.0.0
+					yumi_commons_event: Yumi Commons: Event 1.0.0
+				pride: Pride Lib 1.5.1+1.21.11
+				spruceui: SpruceUI 9.1.0+1.21.11
+				yumi_mc_core: Yumi Minecraft Libraries: Foundation 1.0.0-beta.1+1.21.11
+		libipn: libIPN 6.6.3
+		litematica: Litematica 0.26.16
+		malilib: MaLiLib 0.27.20
+		mc-province: Province 0.2.2+1.21.11
+		minecraft: Minecraft 1.21.11
+		minihud: MiniHUD 0.38.16
+		modmenu: Mod Menu 17.0.0
+		moredelight: More Delight 25.12.10-1.21.11-fabric
+		mousetweaks: Mouse Tweaks 2.30
+		mr_jakes_buildtools: Jake's Build Tools 1-v4.0.7
+		owo: oωo 0.13.0+1.21.11
+			blue_endless_jankson: jankson 1.2.2
+			com_github_kdl-org_kdl4j: kdl4j 1.0.1
+			io_wispforest_endec: endec 0.1.12
+			io_wispforest_endec_gson: gson 0.1.7
+			io_wispforest_endec_jankson: jankson 0.1.7
+			io_wispforest_endec_netty: netty 0.1.6
+		placeholder-api: Placeholder API 2.8.2+1.21.10
+		reeses-sodium-options: Reese's Sodium Options 2.2.0+mc1.21.11
+		roughlyenoughitems: Roughly Enough Items 21.11.816
+			error_notifier: Error Notifier 1.0.11
+		rusticdelight: Rustic Delight 1.7.2
+		searchables: Searchables 1.0.4
+		shur: Subtitle-Highlight-Unofficial-reset 1.0.3-rc.1-1.21.11 Fabric
+		sit: Sit 29
+		smoothscroll: Smooth Scroll 2.6.7
+		sodium: Sodium 0.8.15-beta.1+mc1.21.11
+		sodium-extra: Sodium Extra 0.9.1+mc1.21.11
+		storagedelight: Storage Delight 26.7.1-1.21.11-fabric
+		supermartijn642corelib: SuperMartijn642's Core Lib 1.1.24+a
+		tweakeroo: Tweakeroo 0.27.15
+			conditional-mixin: conditional mixin 0.6.4
+		wthit: wthit 18.2.2
+		xaerominimap: Xaero's Minimap 26.4.2
+		xaeros-playerposition: Xaero 玩家头像 1.0.0
+		xaeroworldmap: Xaero's World Map 1.45.0
+			xaerolib: XaeroLib 1.7.1
+	Yumi MC Core: 1.0.0-beta.1+1.21.11

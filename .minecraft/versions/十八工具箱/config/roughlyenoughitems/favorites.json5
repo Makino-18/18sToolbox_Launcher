@@ -1,0 +1,28 @@
+{
+	"favorites": [
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"fwaystones:waystone\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:blue_concrete\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:red_concrete\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:orange_carpet\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:smooth_stone\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:glow_ink_sac\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:white_dye\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:scaffolding\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:lantern\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:enchantments\":{\"minecraft:flame\":1,\"minecraft:infinity\":1,\"minecraft:power\":5,\"minecraft:punch\":2,\"minecraft:unbreaking\":3}},count:1,id:\"minecraft:bow\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:writable_book\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:ender_pearl\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:firework_rocket\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:yellow_concrete\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:minecart\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_sign\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:name_tag\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:lead\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spectral_arrow\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:anvil\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:blaze_powder\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:honeycomb\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

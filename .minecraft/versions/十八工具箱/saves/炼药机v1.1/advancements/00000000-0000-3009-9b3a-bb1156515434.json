@@ -1,0 +1,249 @@
+{
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.rope_ladder:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "rusticdelight:main/root": {
+    "criteria": {
+      "any_item": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.mob_bag:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.hammer:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.void_bucket:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.block_wrench:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.hardhat:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.void_bundle:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.main:visible/root": {
+    "criteria": {
+      "tick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "moredelight:combat/wooden_knife": {
+    "criteria": {
+      "has_wood": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.experience_flask:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.chisel:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.trowel:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/copper_knife": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.tape_measure:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.grass_starter:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.item_magnet:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "moredelight:main/root": {
+    "criteria": {
+      "seeds": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "jbt.mining_helmet:recipe": {
+    "criteria": {
+      "requirement": "2026-11-01 20:09:10 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 4671
+}

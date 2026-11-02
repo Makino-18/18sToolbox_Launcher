@@ -1,0 +1,9 @@
+{
+  "id" : "8d3e31c6c4ef4ad0b5c03c536b618e9e",
+  "name" : "GOOOD",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzQyODAyNjQzMCwKICAicHJvZmlsZUlkIiA6ICI4ZDNlMzFjNmM0ZWY0YWQwYjVjMDNjNTM2YjYxOGU5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT09PRCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYxOWM0MWIwMzVhZDllNTZhMzE5ZDU0NTI1YjZhNjY2NzEwMmE5ZTgyNWVjNTNhMDQ0M2NjYTc4M2M2M2NjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

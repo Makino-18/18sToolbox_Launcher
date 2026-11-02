@@ -1,0 +1,53 @@
+<local:MyCard Title="适用于 Minecraft 1.20 及之后" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="推荐版本 Java 21" />    
+    </StackPanel>
+    <StackPanel Margin="25,60,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="官网下载" EventType="打开网页" EventData="https://www.oracle.com/java/technologies/downloads/#jdk21-windows" ToolTip="跳转官方网站"/>
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="直接下载内置版本" EventType="打开网页" EventData="https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe" ToolTip="点击开始下载"/>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="适用于 Minecraft 1.17-1.19" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="推荐版本 Java 17" />    
+    </StackPanel>
+    <StackPanel Margin="25,60,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="官网下载" EventType="打开网页" EventData="https://www.oracle.com/java/technologies/downloads/#java17-windows" ToolTip="跳转官方网站"/>
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="直接下载内置版本" EventType="打开网页" EventData="https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/17.0.18%2B8/31b2ae140a1c4f24b46d6848c2ac260f/jdk-17.0.18_windows-x64_bin.exe" ToolTip="点击开始下载"/>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="适用于 Minecraft 1.8-1.16" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="推荐版本 Java 11" />    
+    </StackPanel>
+    <StackPanel Margin="25,60,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="官网下载" EventType="打开网页" EventData="https://www.oracle.com/java/technologies/downloads/#java11-windows" ToolTip="跳转官方网站"/>
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="直接下载内置版本" EventType="打开网页" EventData="https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/11.0.30%2B7/9cb28d60d491469a8fa2efb4f05c0979/jdk-11.0.30_windows-x64_bin.exe" ToolTip="点击开始下载"/>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="适用于 Minecraft 1.7 及之前" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="推荐版本 Java 8" />    
+    </StackPanel>
+    <StackPanel Margin="25,60,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="官网下载" EventType="打开网页" EventData="https://www.oracle.com/java/technologies/downloads/#java8-windows" ToolTip="跳转官方网站"/>
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="直接下载x64" EventType="打开网页" EventData="https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u481-b10/0d06828d282343ea81775b28020a7cd3/jdk-8u481-windows-x64.exe" ToolTip="点击开始下载"/>
+                    <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="直接下载x86" EventType="打开网页" EventData="https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u481-b10/0d06828d282343ea81775b28020a7cd3/jdk-8u481-windows-i586.exe" ToolTip="点击开始下载"/>
+    </StackPanel>
+</local:MyCard>

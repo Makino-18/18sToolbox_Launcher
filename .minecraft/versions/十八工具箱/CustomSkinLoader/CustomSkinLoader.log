@@ -1,0 +1,290 @@
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 15.1
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 21.0.7, Microsoft
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.21.11 (Fabric 0.19.3)
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Config File: D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\CustomSkinLoader.json
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPIPlus
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: version : 15.1
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 41
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "ElyByAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }]
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2026-11-01 23:12:57] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Loading Makino_18's profile.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/INFO] [CustomSkinLoader Core]: Payload: ["Makino_18"]
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8' , Expire: 1793548477)
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8'.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\7b2fb7c0acbbcd701e86e37e9d857ad1c0d2b35f' , Expire: 1793546070)
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-01 23:12:57] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\0e41a4a946f833204754e4c798c7cd12120a2603' , Expire: 1793546073)
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-01 23:12:58] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 75)
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "5bded61d525d43c18cf21d7e08fb3d01",
+  "name" : "Makino_18"
+} ]
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3' , Expire: 0)
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3'.
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-11-01 23:12:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:13:03] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 727)
+[2026-11-01 23:13:03] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 727 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\aa82ef36d931adb7c4908b981a7d0fcc772651fd' , Expire: 1793546003)
+[2026-11-01 23:13:03] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "5bded61d525d43c18cf21d7e08fb3d01",
+  "name" : "Makino_18",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzU0NTk4NDU0OSwKICAicHJvZmlsZUlkIiA6ICI1YmRlZDYxZDUyNWQ0M2MxOGNmMjFkN2UwOGZiM2QwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWtpbm9fMTgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRlOGViMGVmNGU5YjE2YjYyZjI5NDFhYTQ3NTk2MTlkY2NlZjA3ZGU5YmQ4ZjQxNDc5Y2I3YzM1ZmNmZGJjNCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-11-01 23:13:03] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Makino_18's profile loaded. (6503ms)
+[2026-11-01 23:13:03] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/c4e8eb0ef4e9b16b62f2941aa4759619dccef07de9bd8f41479cb7c35fcfdbc4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336  , Expiry: 1793546013)
+[2026-11-01 23:13:07] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/Makino_18.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-01 23:13:07] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Loading Makino_18's profile.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8' , Expire: 1793548477)
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\7b2fb7c0acbbcd701e86e37e9d857ad1c0d2b35f' , Expire: 1793547472)
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-01 23:36:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:36:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-01 23:36:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 727)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 727 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\aa82ef36d931adb7c4908b981a7d0fcc772651fd' , Expire: 1793547401)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "5bded61d525d43c18cf21d7e08fb3d01",
+  "name" : "Makino_18",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzU0NzM4MjUxMywKICAicHJvZmlsZUlkIiA6ICI1YmRlZDYxZDUyNWQ0M2MxOGNmMjFkN2UwOGZiM2QwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWtpbm9fMTgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRlOGViMGVmNGU5YjE2YjYyZjI5NDFhYTQ3NTk2MTlkY2NlZjA3ZGU5YmQ4ZjQxNDc5Y2I3YzM1ZmNmZGJjNCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Makino_18's profile loaded. (2130ms)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/c4e8eb0ef4e9b16b62f2941aa4759619dccef07de9bd8f41479cb7c35fcfdbc4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336  , Expiry: 1793547411)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3' , Expire: 0)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3'.
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-01 23:36:21] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-01 23:36:23] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-01 23:36:23] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\0e41a4a946f833204754e4c798c7cd12120a2603' , Expire: 1793547477)
+[2026-11-01 23:36:23] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-01 23:36:23] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-01 23:36:29] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/Makino_18.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-01 23:36:29] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Loading Makino_18's profile.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-02 00:31:59] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\7b2fb7c0acbbcd701e86e37e9d857ad1c0d2b35f' , Expire: 1793550810)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3' , Expire: 0)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3'.
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\0e41a4a946f833204754e4c798c7cd12120a2603' , Expire: 1793550815)
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-02 00:32:00] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 727)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 727 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\aa82ef36d931adb7c4908b981a7d0fcc772651fd' , Expire: 1793550741)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "5bded61d525d43c18cf21d7e08fb3d01",
+  "name" : "Makino_18",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzU1MDcyMTY3NCwKICAicHJvZmlsZUlkIiA6ICI1YmRlZDYxZDUyNWQ0M2MxOGNmMjFkN2UwOGZiM2QwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWtpbm9fMTgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRlOGViMGVmNGU5YjE2YjYyZjI5NDFhYTQ3NTk2MTlkY2NlZjA3ZGU5YmQ4ZjQxNDc5Y2I3YzM1ZmNmZGJjNCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Makino_18's profile loaded. (1171ms)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/c4e8eb0ef4e9b16b62f2941aa4759619dccef07de9bd8f41479cb7c35fcfdbc4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336  , Expiry: 1793550751)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8' , Expire: 1793554324)
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-02 00:32:01] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:32:09] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/Makino_18.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-02 00:32:09] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Loading Makino_18's profile.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 1/11 Try to load profile from 'GameProfile'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 2/11 Try to load profile from 'Mojang'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GameProfile)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 3/11 Try to load profile from 'LittleSkin'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 4/11 Try to load profile from 'BlessingSkin'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 5/11 Try to load profile from 'ElyBy'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Makino_18.json' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 6/11 Try to load profile from 'TLauncher'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 7/11 Try to load profile from 'GlitchlessGames'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 8/11 Try to load profile from 'LocalSkin'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LocalSkin)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 9/11 Try to load profile from 'MinecraftCapes'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 10/11 Try to load profile from 'OptiFine'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: 11/11 Try to load profile from 'CloakPlus'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/5bded61d525d43c18cf21d7e08fb3d01' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Makino_18.png' with user agent 'CustomSkinLoader/15.1 (Minecraft/1.21.11; Fabric/0.19.3; Java/21.0.7)'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8' , Expire: 1793554324)
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\777b896fba4de8649fdd7ad969fa663973f220d8'.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/DEBUG] [CustomSkinLoader Core]: Content: 
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (ElyBy)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Makino_18 (Exception: java.net.UnknownHostException: games.glitchless.ru)
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (GlitchlessGames)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\7b2fb7c0acbbcd701e86e37e9d857ad1c0d2b35f' , Expire: 1793551312)
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-02 00:40:18] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (LittleSkin)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3' , Expire: 0)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Try to load from cache 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\bd02fce52137c34ce5e857c08da5cb88825509d3'.
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (BlessingSkin)/INFO] [CustomSkinLoader Core]: Profile not found.
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (MinecraftCapes)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (OptiFine)/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 727)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 727 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\aa82ef36d931adb7c4908b981a7d0fcc772651fd' , Expire: 1793551239)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (Mojang)/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "5bded61d525d43c18cf21d7e08fb3d01",
+  "name" : "Makino_18",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzU1MTIyMDQyMCwKICAicHJvZmlsZUlkIiA6ICI1YmRlZDYxZDUyNWQ0M2MxOGNmMjFkN2UwOGZiM2QwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWtpbm9fMTgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRlOGViMGVmNGU5YjE2YjYyZjI5NDFhYTQ3NTk2MTlkY2NlZjA3ZGU5YmQ4ZjQxNDc5Y2I3YzM1ZmNmZGJjNCIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhkZTRhODE2ODhhZDE4YjQ5ZTczNWEyNzNlMDg2YzE4ZjFlMzk2Njk1NjEyM2NjYjU3NDAzNGMwNmY1ZDMzNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: Makino_18's profile loaded. (724ms)
+[2026-11-02 00:40:19] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e>/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/c4e8eb0ef4e9b16b62f2941aa4759619dccef07de9bd8f41479cb7c35fcfdbc4 , Model: default , CapeUrl: http://textures.minecraft.net/texture/28de4a81688ad18b49e735a273e086c18f1e3966956123ccb574034c06f5d336  , Expiry: 1793551249)
+[2026-11-02 00:40:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2026-11-02 00:40:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱\CustomSkinLoader\caches\0e41a4a946f833204754e4c798c7cd12120a2603' , Expire: 1793551315)
+[2026-11-02 00:40:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2026-11-02 00:40:20] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (TLauncher)/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2026-11-02 00:40:28] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/Makino_18.png (Exception: java.net.SocketTimeoutException: Connect timed out)
+[2026-11-02 00:40:28] [Makino_18 <4caec722-9dec-3b38-9dce-c29c0908272e> (CloakPlus)/INFO] [CustomSkinLoader Core]: No texture could be found.

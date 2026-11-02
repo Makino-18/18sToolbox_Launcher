@@ -1,0 +1,21 @@
+<local:MyCard Title="基础信息" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4"
+            Text="ID 牧野泽" />   
+        <TextBlock Margin="0,0,0,4"
+            Text="晚上好" /> 
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="社媒" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="Bilibili[牧野泽_maki]" Info="牧野泽的 Bilibili 主页" 
+            EventType="打开网页" EventData="https://space.bilibili.com/550513937" Type="Clickable" />
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="野泽驿站" Info="同作者开发的综合官网 野泽驿站 " 
+            EventType="打开网页" EventData="http://makino.fucku.top" Type="Clickable" />
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="复制 QQ 号" EventType="复制文本" EventData="3116424062" Type="Clickable" />
+    </StackPanel>
+</local:MyCard>

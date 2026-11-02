@@ -1,0 +1,7 @@
+{
+  "samplingIntervalMs": 1000,
+  "historyLength": 120,
+  "enableServerBroadcastPackets": true,
+  "includeSystemInfoInReport": true,
+  "confirmExternalLinks": true
+}

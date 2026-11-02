@@ -1,0 +1,28 @@
+<local:MyCard Title="如何应用皮肤(可能破碎版)" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="您可以在启动器的[设置]-[启动]-[离线皮肤]中上传或修改您的离线皮肤" />
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="若您拥有正版Minecraft账号，则可以直接通过官网修改" />
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="去往Minecraft官网" EventType="打开网页" EventData="https://www.minecraft.net/zh-hans" ToolTip="点击跳转Minecraft官网" />    
+    </StackPanel>
+</local:MyCard>
+<local:MyCard Title="如何应用皮肤(完整)" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <TextBlock Margin="0,0,0,4" FontSize="13" HorizontalAlignment="Center" Foreground="{DynamicResource ColorBrush1}"
+                    Text="可以参考皮肤站提供的教程，自行准备相应模组" />
+    </StackPanel>
+    <StackPanel Margin="25,60,23,15" Orientation="Horizontal" HorizontalAlignment="Center">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="皮肤站主页" EventType="打开网页" EventData="https://mcskin.com.cn/" ToolTip="点击跳转对应网站" />
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="视频教程" EventType="打开网页" EventData="https://www.bilibili.com/video/av59683534/" ToolTip="点击跳转哔哩哔哩" />    
+    </StackPanel>
+</local:MyCard>
+<local:MyCard Title="皮肤制作工具" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyButton Margin="0,8,0,8" Width="200" Height="35"
+                    Text="打开工具" EventType="打开文件" EventData="Tools\MCSkin3D\MCSkin3D.exe" ToolTip="MCSkin3D" />    
+    </StackPanel>
+</local:MyCard>

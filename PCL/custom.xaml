@@ -1,0 +1,96 @@
+<local:MyCard Title="配置信息" Margin="0,0,0,15" CanSwap="False" >
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="Minecraft Java Edition 1.21.11" ToolTip="Mojang 版权所有"/>
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="+ 十八工具箱 基础包" ToolTip="内测版，请勿外传" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="+ 川泽美美生存 附加包" ToolTip="v2" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="+ CSN 皇家旅行纪念" ToolTip="CSN内服专供，请勿外传" />
+        <!-- 
+        <local:MyHint Margin="0,4,0,2" Theme="Yellow"
+                    Text="重要更新发布，若未更新可能导致无法正常启动游戏等问题" />
+        -->     
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="工具" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+    <StackPanel Margin="25,40,23,15">
+		<local:MyListItem Margin="-5,4,-5,5"
+		            EventType="打开帮助" EventData="skin.json" />
+		<local:MyListItem Margin="-5,4,-5,5"
+		            EventType="打开帮助" EventData="java.json" />
+        </StackPanel>		
+</local:MyCard>
+
+<local:MyCard Title="关于" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+    <StackPanel Margin="25,40,23,15">
+                <local:MyListItem Margin="-5,4,-5,5"
+		            EventType="打开帮助" EventData="makino.json" />
+                <local:MyListItem Margin="-5,4,-5,5"
+		            EventType="打开帮助" EventData="czgh.json" />
+                <local:MyListItem Margin="-5,4,-5,5"
+		            EventType="打开帮助" EventData="kakami.json" />
+        </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="更新" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+    <StackPanel Margin="25,40,23,15">
+                <local:MyListItem Margin="-5,4,-5,5"
+		            Title="更新包" Info="内测版v0.7.1 皇家版 | 261028"
+                            EventType="弹出窗口" EventData="v0.7.0 261017 | 下载功能正在维护中，敬请期待\n暂时可前往社交媒体进行下载" Type="Clickable"/>
+                <local:MyListItem Margin="-5,4,-5,5"
+		            Title="更新日志" Info="内测版v0.7.1 皇家版 | 261028"
+                            EventType="打开网页" EventData="https://docs.qq.com/aio/DWW5RTmpOTHdjdWV3" Type="Clickable"/>
+                <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#ffa200"
+                Text="客户端最后更新 2026年10月28日" ToolTip="版本识别号v0.7.1 皇家版" />
+        </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="拓展资源包" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+    <StackPanel Margin="25,40,23,15">
+                <local:MyListItem Margin="-5,4,-5,5"
+		            Title="Tips" Info="挂载拓展资源的说明"
+                            EventType="弹出窗口" EventData="使用说明 |Step 1. 选择需要的拓展资源包，下载好【.zip】文件\nStep 2. 点击【打开资源包目录】进入【resourcepacks】文件夹\nStep 3. 将【.zip】放入【resourcepacks】文件夹\n\n 需要注意的是，拓展资源包下载只在每日14:00-次日2:00开放" Type="Clickable"/>
+                <local:MyListItem Margin="-5,4,-5,5"
+		            Title="「幻造星月」资源包" Info="由牧野泽与川泽广浩携手开发的资源包，更改了部分世界效果"
+                            EventType="弹出窗口" EventData="「幻造星月」资源包 |下载功能暂未开放，请前往社交媒体进行下载" Type="Clickable"/>
+    </StackPanel>		
+</local:MyCard>
+
+<local:MyCard Title="快速导航" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,4,0,2" Theme="Yellow"
+                    Text="请确保你清楚在这些文件夹下增删内容的后果，否则可能导致游戏无法正常启动" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="资源包目录" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\resourcepacks" />
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="光影包目录" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\shaderpacks" />
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="投影文件" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\schematics" />
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="模组目录" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\mods" />
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="存档目录" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\saves" />
+            <local:MyButton Height="35" HorizontalAlignment="Left" Margin="0,8,4,0" Padding="20,0,20,0"
+                    Text="调取日志" EventType="打开文件" EventData="\..\.minecraft\versions\十八工具箱\logs" />  
+        </StackPanel>
+    </StackPanel>		
+</local:MyCard>
+
+<local:MyCard Title="调试功能" Margin="0,0,0,15" CanSwap="True" IsSwapped="True">
+        <StackPanel Margin="25,40,23,15">
+                <local:MyHint Margin="0,4,0,2" Theme="Yellow"
+                        Text="请确保你清楚在这些功能的作用，不当的使用可能造成数据损失等后果" />
+                <local:MyListItem Margin="-5,4,-5,5"
+		        EventType="打开帮助" EventData="f12.json" />
+                <local:MyListItem Margin="-5,4,-5,5"
+                        Title="清理缓存" Info="删除启动器与游戏的缓存、日志、报错等文件" Logo="https://gitee.com/makino18/pcl_index/raw/master/clearcache.ico"
+		        EventType="清理垃圾" Type="Clickable" />
+                <local:MyListItem Margin="-5,4,-5,5"
+                        Title="刷新主页" Info="若主页出现问题，可尝试通过刷新来解决" Logo="https://gitee.com/makino18/pcl_index/raw/master/refresh.ico"
+		        EventType="刷新主页" Type="Clickable" />
+        </StackPanel>
+</local:MyCard>

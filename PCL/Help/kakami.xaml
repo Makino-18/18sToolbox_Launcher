@@ -1,0 +1,18 @@
+<local:MyCard Title="基础信息" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4"
+            Text="ID 幕光霞" />   
+        <TextBlock Margin="0,0,0,4"
+            Text="花朵🌸、树木🌳、天空🖼️、微风🌬️、云彩☁️、太阳🌞、彩虹🌈、海洋🌊、沙滩🏖️、森林🌲、石子🪨、沙砾⏳、大地🌏 蕾丽兰😭！若你不在人世我要用地球为你陪葬👿。蕾丽兰😱，我终于😫..... 复活吧🤩！ 我！的！爱！人！！！🥳" /> 
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="社媒" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="Bilibili[幕光霞]" Info="幕光霞的 Bilibili 主页" 
+            EventType="打开网页" EventData="https://space.bilibili.com/62510976" Type="Clickable" />
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="复制 QQ 号" EventType="复制文本" EventData="282323083" Type="Clickable" />
+    </StackPanel>
+</local:MyCard>

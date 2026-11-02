@@ -1,0 +1,4 @@
+[2026-11-01 23:11:31] [INFO]: I18nUpdate Mod 3.7.0 is loaded in 1.21.11 with Fabric
+[2026-11-01 23:11:31] [DEBUG]: Minecraft path: D:\十八工具箱v0.7.1 皇家版\.minecraft\versions\十八工具箱
+[2026-11-01 23:11:31] [DEBUG]: Local Storage Pos: C:\Users\mufor
+[2026-11-01 23:11:31] [WARNING]: Failed to update resource pack: java.lang.IllegalStateException: Version 1.21.11 not found in i18n meta

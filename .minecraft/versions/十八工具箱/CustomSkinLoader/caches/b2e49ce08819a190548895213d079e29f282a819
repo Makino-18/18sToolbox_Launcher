@@ -1,0 +1,9 @@
+{
+  "id" : "dfe32497742b4e7fa21ee90dd9c60a25",
+  "name" : "kakami",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzQ1NzQzODY1NywKICAicHJvZmlsZUlkIiA6ICJkZmUzMjQ5Nzc0MmI0ZTdmYTIxZWU5MGRkOWM2MGEyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYWthbWkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ0NmVjMjRlYjE5NmEyYjBkNzVlNjcxYTkzNjI1NzlhOWIxZDUwNjI2ZDZjNWFlOTQ4NjVmOTI4Njc1ZDE1ZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

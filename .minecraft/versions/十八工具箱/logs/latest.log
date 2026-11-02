@@ -1,0 +1,322 @@
+[00:00:02] [Render thread/INFO]: [System] [CHAT] 已将自己的游戏模式设置为创造模式
+[00:00:07] [Render thread/INFO]: Subtitle colorize stats - Calls: 1262, Avg: {:.2f}us, Min: 1.3469889064976228us, Max: 0us
+[00:00:17] [Render thread/INFO]: Subtitle colorize stats - Calls: 660, Avg: {:.2f}us, Min: 1.6475757575757575us, Max: 0us
+[00:00:27] [Render thread/INFO]: Subtitle colorize stats - Calls: 567, Avg: {:.2f}us, Min: 1.7677248677248676us, Max: 0us
+[00:00:37] [Render thread/INFO]: Subtitle colorize stats - Calls: 612, Avg: {:.2f}us, Min: 1.6772875816993464us, Max: 0us
+[00:00:47] [Render thread/INFO]: Subtitle colorize stats - Calls: 525, Avg: {:.2f}us, Min: 1.6693333333333333us, Max: 0us
+[00:00:57] [Render thread/INFO]: Subtitle colorize stats - Calls: 564, Avg: {:.2f}us, Min: 1.8437943262411347us, Max: 0us
+[00:01:07] [Render thread/INFO]: Subtitle colorize stats - Calls: 1027, Avg: {:.2f}us, Min: 1.3989289191820837us, Max: 0us
+[00:01:17] [Render thread/INFO]: Subtitle colorize stats - Calls: 3787, Avg: {:.2f}us, Min: 1.0343015579614472us, Max: 0us
+[00:01:27] [Render thread/INFO]: Subtitle colorize stats - Calls: 2955, Avg: {:.2f}us, Min: 1.180642978003384us, Max: 0us
+[00:01:37] [Render thread/INFO]: Subtitle colorize stats - Calls: 2788, Avg: {:.2f}us, Min: 1.1323170731707317us, Max: 0us
+[00:01:47] [Render thread/INFO]: Subtitle colorize stats - Calls: 3735, Avg: {:.2f}us, Min: 1.1208299866131193us, Max: 0us
+[00:01:57] [Render thread/INFO]: Subtitle colorize stats - Calls: 3677, Avg: {:.2f}us, Min: 1.0657601305412019us, Max: 0us
+[00:02:07] [Render thread/INFO]: Subtitle colorize stats - Calls: 3869, Avg: {:.2f}us, Min: 1.0576893254070818us, Max: 0us
+[00:02:17] [Render thread/INFO]: Subtitle colorize stats - Calls: 3021, Avg: {:.2f}us, Min: 1.1309500165508108us, Max: 0us
+[00:02:27] [Render thread/INFO]: Subtitle colorize stats - Calls: 552, Avg: {:.2f}us, Min: 1.7652173913043478us, Max: 0us
+[00:02:37] [Render thread/INFO]: Subtitle colorize stats - Calls: 570, Avg: {:.2f}us, Min: 1.7712280701754386us, Max: 0us
+[00:02:47] [Render thread/INFO]: Subtitle colorize stats - Calls: 657, Avg: {:.2f}us, Min: 1.6144596651445966us, Max: 0us
+[00:02:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 420, Avg: {:.2f}us, Min: 1.9292857142857143us, Max: 0us
+[00:03:08] [Render thread/INFO]: Subtitle colorize stats - Calls: 636, Avg: {:.2f}us, Min: 1.5569182389937106us, Max: 0us
+[00:03:18] [Render thread/INFO]: Subtitle colorize stats - Calls: 468, Avg: {:.2f}us, Min: 1.9376068376068376us, Max: 0us
+[00:03:28] [Render thread/INFO]: Subtitle colorize stats - Calls: 435, Avg: {:.2f}us, Min: 2.024597701149425us, Max: 0us
+[00:03:38] [Render thread/INFO]: Subtitle colorize stats - Calls: 705, Avg: {:.2f}us, Min: 1.5550354609929078us, Max: 0us
+[00:03:48] [Render thread/INFO]: Subtitle colorize stats - Calls: 1772, Avg: {:.2f}us, Min: 1.2796839729119638us, Max: 0us
+[00:03:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 1852, Avg: {:.2f}us, Min: 1.1866630669546436us, Max: 0us
+[00:04:08] [Render thread/INFO]: Subtitle colorize stats - Calls: 1680, Avg: {:.2f}us, Min: 1.2961309523809523us, Max: 0us
+[00:04:12] [Render thread/INFO]: [System] [CHAT] 已成功复制83个方块
+[00:04:18] [Render thread/INFO]: Subtitle colorize stats - Calls: 1171, Avg: {:.2f}us, Min: 1.8260461144321094us, Max: 0us
+[00:04:28] [Render thread/INFO]: Subtitle colorize stats - Calls: 432, Avg: {:.2f}us, Min: 2.7023148148148146us, Max: 0us
+[00:04:37] [Render thread/INFO]: [System] [CHAT] 已成功复制83个方块
+[00:04:38] [Render thread/INFO]: Subtitle colorize stats - Calls: 1116, Avg: {:.2f}us, Min: 1.8827060931899642us, Max: 0us
+[00:04:48] [Render thread/INFO]: Subtitle colorize stats - Calls: 398, Avg: {:.2f}us, Min: 2.3733668341708545us, Max: 0us
+[00:04:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 2670, Avg: {:.2f}us, Min: 1.3650187265917602us, Max: 0us
+[00:05:00] [Render thread/INFO]: [System] [CHAT] 源区域和目标区域不能重叠
+[00:05:08] [Render thread/INFO]: Subtitle colorize stats - Calls: 2653, Avg: {:.2f}us, Min: 0.9721447418017338us, Max: 0us
+[00:05:12] [Render thread/INFO]: [System] [CHAT] 源区域和目标区域不能重叠
+[00:05:18] [Render thread/INFO]: Subtitle colorize stats - Calls: 4285, Avg: {:.2f}us, Min: 0.8651341890315052us, Max: 0us
+[00:05:20] [Render thread/INFO]: [System] [CHAT] 源区域和目标区域不能重叠
+[00:05:28] [Render thread/INFO]: Subtitle colorize stats - Calls: 4709, Avg: {:.2f}us, Min: 0.8581015077511149us, Max: 0us
+[00:05:30] [Render thread/INFO]: [System] [CHAT] 已成功复制83个方块
+[00:05:38] [Render thread/INFO]: Subtitle colorize stats - Calls: 1330, Avg: {:.2f}us, Min: 1.211278195488722us, Max: 0us
+[00:05:48] [Render thread/INFO]: Subtitle colorize stats - Calls: 1587, Avg: {:.2f}us, Min: 1.2671077504725896us, Max: 0us
+[00:05:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 390, Avg: {:.2f}us, Min: 1.9541025641025642us, Max: 0us
+[00:06:08] [Render thread/INFO]: Subtitle colorize stats - Calls: 354, Avg: {:.2f}us, Min: 2.05us, Max: 0us
+[00:06:19] [Render thread/INFO]: Subtitle colorize stats - Calls: 420, Avg: {:.2f}us, Min: 2.076904761904762us, Max: 0us
+[00:06:29] [Render thread/INFO]: Subtitle colorize stats - Calls: 378, Avg: {:.2f}us, Min: 2.2783068783068785us, Max: 0us
+[00:06:39] [Render thread/INFO]: Subtitle colorize stats - Calls: 420, Avg: {:.2f}us, Min: 1.9359523809523809us, Max: 0us
+[00:06:49] [Render thread/INFO]: Subtitle colorize stats - Calls: 432, Avg: {:.2f}us, Min: 1.9282407407407407us, Max: 0us
+[00:06:59] [Render thread/INFO]: Subtitle colorize stats - Calls: 387, Avg: {:.2f}us, Min: 2.1803617571059433us, Max: 0us
+[00:07:09] [Render thread/INFO]: Subtitle colorize stats - Calls: 414, Avg: {:.2f}us, Min: 2.6367149758454107us, Max: 0us
+[00:07:19] [Render thread/INFO]: Subtitle colorize stats - Calls: 366, Avg: {:.2f}us, Min: 2.026502732240437us, Max: 0us
+[00:07:29] [Render thread/INFO]: Subtitle colorize stats - Calls: 2132, Avg: {:.2f}us, Min: 1.2547373358348968us, Max: 0us
+[00:07:39] [Render thread/INFO]: Subtitle colorize stats - Calls: 1745, Avg: {:.2f}us, Min: 1.2660171919770773us, Max: 0us
+[00:07:49] [Render thread/INFO]: Subtitle colorize stats - Calls: 2742, Avg: {:.2f}us, Min: 1.214478482859227us, Max: 0us
+[00:07:59] [Render thread/INFO]: Subtitle colorize stats - Calls: 1205, Avg: {:.2f}us, Min: 1.5077178423236515us, Max: 0us
+[00:08:09] [Render thread/INFO]: Subtitle colorize stats - Calls: 492, Avg: {:.2f}us, Min: 1.8172764227642275us, Max: 0us
+[00:08:19] [Render thread/INFO]: Subtitle colorize stats - Calls: 501, Avg: {:.2f}us, Min: 1.8287425149700598us, Max: 0us
+[00:08:29] [Render thread/INFO]: Subtitle colorize stats - Calls: 468, Avg: {:.2f}us, Min: 1.8589743589743588us, Max: 0us
+[00:08:39] [Render thread/INFO]: Subtitle colorize stats - Calls: 419, Avg: {:.2f}us, Min: 1.6711217183770881us, Max: 0us
+[00:08:49] [Render thread/INFO]: Subtitle colorize stats - Calls: 804, Avg: {:.2f}us, Min: 1.603358208955224us, Max: 0us
+[00:09:00] [Render thread/INFO]: Subtitle colorize stats - Calls: 1422, Avg: {:.2f}us, Min: 1.3085794655414908us, Max: 0us
+[00:09:10] [Render thread/INFO]: Subtitle colorize stats - Calls: 989, Avg: {:.2f}us, Min: 1.5372093023255813us, Max: 0us
+[00:09:10] [Render thread/INFO]: [System] [CHAT] 已成功填充384个方块
+[00:09:20] [Render thread/INFO]: Subtitle colorize stats - Calls: 1380, Avg: {:.2f}us, Min: 1.3207246376811594us, Max: 0us
+[00:09:30] [Render thread/INFO]: Subtitle colorize stats - Calls: 480, Avg: {:.2f}us, Min: 1.9083333333333332us, Max: 0us
+[00:09:40] [Render thread/INFO]: Subtitle colorize stats - Calls: 1962, Avg: {:.2f}us, Min: 1.292711518858308us, Max: 0us
+[00:09:40] [Render thread/INFO]: [System] [CHAT] 已成功填充193个方块
+[00:09:50] [Render thread/INFO]: Subtitle colorize stats - Calls: 3351, Avg: {:.2f}us, Min: 1.139212175470009us, Max: 0us
+[00:10:00] [Render thread/INFO]: Subtitle colorize stats - Calls: 900, Avg: {:.2f}us, Min: 1.4781111111111112us, Max: 0us
+[00:10:07] [Render thread/INFO]: [System] [CHAT] 已成功填充384个方块
+[00:10:10] [Render thread/INFO]: Subtitle colorize stats - Calls: 1188, Avg: {:.2f}us, Min: 1.4302188552188553us, Max: 0us
+[00:10:20] [Render thread/INFO]: Subtitle colorize stats - Calls: 2912, Avg: {:.2f}us, Min: 1.0438873626373626us, Max: 0us
+[00:10:30] [Render thread/INFO]: Subtitle colorize stats - Calls: 3031, Avg: {:.2f}us, Min: 1.0704717914879578us, Max: 0us
+[00:10:40] [Render thread/INFO]: Subtitle colorize stats - Calls: 2058, Avg: {:.2f}us, Min: 0.9405733722060253us, Max: 0us
+[00:10:50] [Render thread/INFO]: Subtitle colorize stats - Calls: 884, Avg: {:.2f}us, Min: 1.3919683257918551us, Max: 0us
+[00:10:55] [Render thread/INFO]: [System] [CHAT] 已成功复制60个方块
+[00:11:00] [Render thread/INFO]: Subtitle colorize stats - Calls: 743, Avg: {:.2f}us, Min: 1.5279946164199194us, Max: 0us
+[00:11:10] [Render thread/INFO]: Subtitle colorize stats - Calls: 1866, Avg: {:.2f}us, Min: 3.3516077170418006us, Max: 0us
+[00:11:20] [Render thread/INFO]: Subtitle colorize stats - Calls: 501, Avg: {:.2f}us, Min: 4.689021956087824us, Max: 0us
+[00:11:23] [Render thread/WARN]: colorizeSubtitle took 4ms - potential performance issue
+[00:11:30] [Render thread/INFO]: Subtitle colorize stats - Calls: 474, Avg: {:.2f}us, Min: 13.337130801687763us, Max: 0us
+[00:11:41] [Render thread/INFO]: Subtitle colorize stats - Calls: 525, Avg: {:.2f}us, Min: 4.434285714285715us, Max: 0us
+[00:11:51] [Render thread/INFO]: Subtitle colorize stats - Calls: 444, Avg: {:.2f}us, Min: 4.716216216216216us, Max: 0us
+[00:12:01] [Render thread/INFO]: Subtitle colorize stats - Calls: 426, Avg: {:.2f}us, Min: 4.6887323943661965us, Max: 0us
+[00:12:11] [Render thread/INFO]: Subtitle colorize stats - Calls: 528, Avg: {:.2f}us, Min: 4.621022727272727us, Max: 0us
+[00:12:21] [Render thread/INFO]: Subtitle colorize stats - Calls: 522, Avg: {:.2f}us, Min: 4.004214559386973us, Max: 0us
+[00:12:31] [Render thread/INFO]: Subtitle colorize stats - Calls: 480, Avg: {:.2f}us, Min: 2.2197916666666666us, Max: 0us
+[00:12:41] [Render thread/INFO]: Subtitle colorize stats - Calls: 736, Avg: {:.2f}us, Min: 1.656929347826087us, Max: 0us
+[00:12:51] [Render thread/INFO]: Subtitle colorize stats - Calls: 1479, Avg: {:.2f}us, Min: 1.283367139959432us, Max: 0us
+[00:12:54] [Render thread/INFO]: [System] [CHAT] 已成功填充7个方块
+[00:13:01] [Render thread/INFO]: Subtitle colorize stats - Calls: 495, Avg: {:.2f}us, Min: 1.9676767676767677us, Max: 0us
+[00:13:08] [Render thread/INFO]: [System] [CHAT] 已成功填充165个方块
+[00:13:11] [Render thread/INFO]: Subtitle colorize stats - Calls: 1562, Avg: {:.2f}us, Min: 1.0913572343149809us, Max: 0us
+[00:13:21] [Render thread/INFO]: Subtitle colorize stats - Calls: 4253, Avg: {:.2f}us, Min: 0.8647072654596756us, Max: 0us
+[00:13:31] [Render thread/INFO]: Subtitle colorize stats - Calls: 4746, Avg: {:.2f}us, Min: 0.967425200168563us, Max: 0us
+[00:13:41] [Render thread/INFO]: Subtitle colorize stats - Calls: 2624, Avg: {:.2f}us, Min: 1.1076981707317073us, Max: 0us
+[00:13:48] [Render thread/INFO]: [System] [CHAT] 已成功填充407个方块
+[00:13:51] [Render thread/INFO]: Subtitle colorize stats - Calls: 552, Avg: {:.2f}us, Min: 1.7748188405797103us, Max: 0us
+[00:14:01] [Render thread/INFO]: Subtitle colorize stats - Calls: 627, Avg: {:.2f}us, Min: 1.5566188197767143us, Max: 0us
+[00:14:11] [Render thread/INFO]: Subtitle colorize stats - Calls: 779, Avg: {:.2f}us, Min: 1.5596919127086006us, Max: 0us
+[00:14:21] [Render thread/INFO]: Subtitle colorize stats - Calls: 1659, Avg: {:.2f}us, Min: 1.3424352019288728us, Max: 0us
+[00:14:26] [Render thread/INFO]: [System] [CHAT] 已成功填充209个方块
+[00:14:31] [Render thread/INFO]: Subtitle colorize stats - Calls: 820, Avg: {:.2f}us, Min: 1.483170731707317us, Max: 0us
+[00:14:41] [Render thread/INFO]: Subtitle colorize stats - Calls: 4375, Avg: {:.2f}us, Min: 0.8594057142857143us, Max: 0us
+[00:14:51] [Render thread/INFO]: Subtitle colorize stats - Calls: 1098, Avg: {:.2f}us, Min: 1.422950819672131us, Max: 0us
+[00:14:55] [Render thread/INFO]: [System] [CHAT] 已成功填充69个方块
+[00:15:01] [Render thread/INFO]: Subtitle colorize stats - Calls: 3697, Avg: {:.2f}us, Min: 1.0320530159588857us, Max: 0us
+[00:15:12] [Render thread/INFO]: Subtitle colorize stats - Calls: 2023, Avg: {:.2f}us, Min: 1.1398912506178942us, Max: 0us
+[00:15:17] [Render thread/INFO]: [System] [CHAT] 已成功填充261个方块
+[00:15:22] [Render thread/INFO]: Subtitle colorize stats - Calls: 1841, Avg: {:.2f}us, Min: 1.2783813145029876us, Max: 0us
+[00:15:32] [Render thread/INFO]: Subtitle colorize stats - Calls: 3375, Avg: {:.2f}us, Min: 1.0036444444444443us, Max: 0us
+[00:15:42] [Render thread/INFO]: Subtitle colorize stats - Calls: 636, Avg: {:.2f}us, Min: 1.4650943396226415us, Max: 0us
+[00:15:52] [Render thread/INFO]: Subtitle colorize stats - Calls: 618, Avg: {:.2f}us, Min: 1.6090614886731391us, Max: 0us
+[00:15:58] [Render thread/INFO]: [System] [CHAT] 已成功填充238个方块
+[00:16:02] [Render thread/INFO]: Subtitle colorize stats - Calls: 1500, Avg: {:.2f}us, Min: 1.3314000000000001us, Max: 0us
+[00:16:12] [Render thread/INFO]: Subtitle colorize stats - Calls: 501, Avg: {:.2f}us, Min: 1.888622754491018us, Max: 0us
+[00:16:22] [Render thread/INFO]: Subtitle colorize stats - Calls: 2144, Avg: {:.2f}us, Min: 0.9880130597014926us, Max: 0us
+[00:16:28] [Render thread/INFO]: [System] [CHAT] 已成功填充94个方块
+[00:16:32] [Render thread/INFO]: Subtitle colorize stats - Calls: 480, Avg: {:.2f}us, Min: 1.9385416666666668us, Max: 0us
+[00:16:42] [Render thread/INFO]: Subtitle colorize stats - Calls: 459, Avg: {:.2f}us, Min: 1.9904139433551198us, Max: 0us
+[00:16:52] [Render thread/INFO]: Subtitle colorize stats - Calls: 627, Avg: {:.2f}us, Min: 1.5326953748006378us, Max: 0us
+[00:17:02] [Render thread/INFO]: Subtitle colorize stats - Calls: 588, Avg: {:.2f}us, Min: 1.9681972789115645us, Max: 0us
+[00:17:12] [Render thread/INFO]: Subtitle colorize stats - Calls: 423, Avg: {:.2f}us, Min: 2.048936170212766us, Max: 0us
+[00:17:22] [Render thread/INFO]: Subtitle colorize stats - Calls: 1099, Avg: {:.2f}us, Min: 1.3939035486806188us, Max: 0us
+[00:17:32] [Render thread/INFO]: Subtitle colorize stats - Calls: 411, Avg: {:.2f}us, Min: 1.9739659367396594us, Max: 0us
+[00:17:42] [Render thread/INFO]: Subtitle colorize stats - Calls: 532, Avg: {:.2f}us, Min: 1.9453007518796992us, Max: 0us
+[00:17:52] [Render thread/INFO]: Subtitle colorize stats - Calls: 3241, Avg: {:.2f}us, Min: 0.9583770441221845us, Max: 0us
+[00:18:02] [Render thread/INFO]: Subtitle colorize stats - Calls: 2368, Avg: {:.2f}us, Min: 1.2745777027027028us, Max: 0us
+[00:18:12] [Render thread/INFO]: Subtitle colorize stats - Calls: 353, Avg: {:.2f}us, Min: 1.978470254957507us, Max: 0us
+[00:18:22] [Render thread/INFO]: Subtitle colorize stats - Calls: 4106, Avg: {:.2f}us, Min: 0.835849975645397us, Max: 0us
+[00:18:32] [Render thread/INFO]: Subtitle colorize stats - Calls: 2099, Avg: {:.2f}us, Min: 1.0579799904716531us, Max: 0us
+[00:18:43] [Render thread/INFO]: Subtitle colorize stats - Calls: 2400, Avg: {:.2f}us, Min: 1.1645833333333333us, Max: 0us
+[00:18:53] [Render thread/INFO]: Subtitle colorize stats - Calls: 1133, Avg: {:.2f}us, Min: 1.5008826125330978us, Max: 0us
+[00:19:03] [Render thread/INFO]: Subtitle colorize stats - Calls: 435, Avg: {:.2f}us, Min: 1.9112643678160919us, Max: 0us
+[00:19:13] [Render thread/INFO]: Subtitle colorize stats - Calls: 318, Avg: {:.2f}us, Min: 2.0965408805031447us, Max: 0us
+[00:19:23] [Render thread/INFO]: Subtitle colorize stats - Calls: 297, Avg: {:.2f}us, Min: 2.0313131313131314us, Max: 0us
+[00:19:33] [Render thread/INFO]: Subtitle colorize stats - Calls: 345, Avg: {:.2f}us, Min: 2.107536231884058us, Max: 0us
+[00:19:43] [Render thread/INFO]: Subtitle colorize stats - Calls: 348, Avg: {:.2f}us, Min: 1.982758620689655us, Max: 0us
+[00:19:53] [Render thread/INFO]: Subtitle colorize stats - Calls: 306, Avg: {:.2f}us, Min: 2.1437908496732025us, Max: 0us
+[00:20:03] [Render thread/INFO]: Subtitle colorize stats - Calls: 330, Avg: {:.2f}us, Min: 2.131212121212121us, Max: 0us
+[00:20:13] [Render thread/INFO]: Subtitle colorize stats - Calls: 351, Avg: {:.2f}us, Min: 2.017378917378917us, Max: 0us
+[00:20:23] [Render thread/INFO]: Subtitle colorize stats - Calls: 357, Avg: {:.2f}us, Min: 2.144537815126051us, Max: 0us
+[00:20:34] [Render thread/INFO]: Subtitle colorize stats - Calls: 330, Avg: {:.2f}us, Min: 2.033939393939394us, Max: 0us
+[00:20:44] [Render thread/INFO]: Subtitle colorize stats - Calls: 336, Avg: {:.2f}us, Min: 2.0595238095238098us, Max: 0us
+[00:20:54] [Render thread/INFO]: Subtitle colorize stats - Calls: 375, Avg: {:.2f}us, Min: 2.2554666666666665us, Max: 0us
+[00:21:04] [Render thread/INFO]: Subtitle colorize stats - Calls: 354, Avg: {:.2f}us, Min: 2.2293785310734466us, Max: 0us
+[00:21:14] [Render thread/INFO]: Subtitle colorize stats - Calls: 417, Avg: {:.2f}us, Min: 2.403597122302158us, Max: 0us
+[00:21:24] [Render thread/INFO]: Subtitle colorize stats - Calls: 390, Avg: {:.2f}us, Min: 2.215384615384615us, Max: 0us
+[00:21:34] [Render thread/INFO]: Subtitle colorize stats - Calls: 2042, Avg: {:.2f}us, Min: 1.1053868756121448us, Max: 0us
+[00:21:44] [Render thread/INFO]: Subtitle colorize stats - Calls: 4295, Avg: {:.2f}us, Min: 0.9489871944121071us, Max: 0us
+[00:21:54] [Render thread/INFO]: Subtitle colorize stats - Calls: 2110, Avg: {:.2f}us, Min: 1.1101895734597156us, Max: 0us
+[00:22:04] [Render thread/INFO]: Subtitle colorize stats - Calls: 3827, Avg: {:.2f}us, Min: 1.025868826757251us, Max: 0us
+[00:22:14] [Render thread/INFO]: Subtitle colorize stats - Calls: 2163, Avg: {:.2f}us, Min: 1.3147942672214517us, Max: 0us
+[00:22:24] [Render thread/INFO]: Subtitle colorize stats - Calls: 1044, Avg: {:.2f}us, Min: 1.3911877394636014us, Max: 0us
+[00:22:34] [Render thread/INFO]: Subtitle colorize stats - Calls: 4047, Avg: {:.2f}us, Min: 0.8636767976278725us, Max: 0us
+[00:22:44] [Render thread/INFO]: Subtitle colorize stats - Calls: 1175, Avg: {:.2f}us, Min: 1.2366808510638299us, Max: 0us
+[00:22:54] [Render thread/INFO]: Subtitle colorize stats - Calls: 3321, Avg: {:.2f}us, Min: 1.128635953026197us, Max: 0us
+[00:23:04] [Render thread/INFO]: Subtitle colorize stats - Calls: 765, Avg: {:.2f}us, Min: 1.5258823529411765us, Max: 0us
+[00:23:14] [Render thread/INFO]: Subtitle colorize stats - Calls: 1023, Avg: {:.2f}us, Min: 1.4055718475073313us, Max: 0us
+[00:23:24] [Render thread/INFO]: Subtitle colorize stats - Calls: 1353, Avg: {:.2f}us, Min: 1.3015521064301552us, Max: 0us
+[00:23:34] [Render thread/INFO]: Subtitle colorize stats - Calls: 303, Avg: {:.2f}us, Min: 2.0316831683168317us, Max: 0us
+[00:23:44] [Render thread/INFO]: Subtitle colorize stats - Calls: 321, Avg: {:.2f}us, Min: 2.0591900311526476us, Max: 0us
+[00:23:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 363, Avg: {:.2f}us, Min: 1.9614325068870524us, Max: 0us
+[00:24:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 324, Avg: {:.2f}us, Min: 1.9351851851851851us, Max: 0us
+[00:24:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 324, Avg: {:.2f}us, Min: 2.253086419753086us, Max: 0us
+[00:24:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 360, Avg: {:.2f}us, Min: 1.9008333333333332us, Max: 0us
+[00:24:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 348, Avg: {:.2f}us, Min: 2.099425287356322us, Max: 0us
+[00:24:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 312, Avg: {:.2f}us, Min: 1.98525641025641us, Max: 0us
+[00:24:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 3333, Avg: {:.2f}us, Min: 1.041944194419442us, Max: 0us
+[00:25:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 3957, Avg: {:.2f}us, Min: 0.9812736921910538us, Max: 0us
+[00:25:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 2629, Avg: {:.2f}us, Min: 1.2050589577786233us, Max: 0us
+[00:25:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 1682, Avg: {:.2f}us, Min: 1.3651010701545778us, Max: 0us
+[00:25:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 1261, Avg: {:.2f}us, Min: 1.3178429817605075us, Max: 0us
+[00:25:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 3507, Avg: {:.2f}us, Min: 1.0754491017964072us, Max: 0us
+[00:25:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 1199, Avg: {:.2f}us, Min: 1.3454545454545455us, Max: 0us
+[00:26:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 6372, Avg: {:.2f}us, Min: 0.6843691148775894us, Max: 0us
+[00:26:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 7368, Avg: {:.2f}us, Min: 0.6662459283387623us, Max: 0us
+[00:26:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 6370, Avg: {:.2f}us, Min: 0.6653846153846154us, Max: 0us
+[00:26:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 4181, Avg: {:.2f}us, Min: 0.7907677589093519us, Max: 0us
+[00:26:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 7957, Avg: {:.2f}us, Min: 0.6697247706422018us, Max: 0us
+[00:26:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 6223, Avg: {:.2f}us, Min: 0.7887353366543467us, Max: 0us
+[00:27:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 6254, Avg: {:.2f}us, Min: 0.7376239206907579us, Max: 0us
+[00:27:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 4343, Avg: {:.2f}us, Min: 1.0009440478931615us, Max: 0us
+[00:27:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 5363, Avg: {:.2f}us, Min: 0.8428677978743241us, Max: 0us
+[00:27:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 3850, Avg: {:.2f}us, Min: 0.7835584415584416us, Max: 0us
+[00:27:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 4071, Avg: {:.2f}us, Min: 0.9055514615573569us, Max: 0us
+[00:27:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 657, Avg: {:.2f}us, Min: 1.3786910197869102us, Max: 0us
+[00:28:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 569, Avg: {:.2f}us, Min: 1.3391915641476273us, Max: 0us
+[00:28:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 659, Avg: {:.2f}us, Min: 1.3391502276176024us, Max: 0us
+[00:28:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 634, Avg: {:.2f}us, Min: 1.2742902208201892us, Max: 0us
+[00:28:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 605, Avg: {:.2f}us, Min: 1.25801652892562us, Max: 0us
+[00:28:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 608, Avg: {:.2f}us, Min: 1.286842105263158us, Max: 0us
+[00:28:57] [Render thread/INFO]: Subtitle colorize stats - Calls: 599, Avg: {:.2f}us, Min: 1.403839732888147us, Max: 0us
+[00:29:07] [Render thread/INFO]: Subtitle colorize stats - Calls: 596, Avg: {:.2f}us, Min: 1.510234899328859us, Max: 0us
+[00:29:17] [Render thread/INFO]: Subtitle colorize stats - Calls: 638, Avg: {:.2f}us, Min: 1.5158307210031348us, Max: 0us
+[00:29:27] [Render thread/INFO]: Subtitle colorize stats - Calls: 673, Avg: {:.2f}us, Min: 1.210698365527489us, Max: 0us
+[00:29:37] [Render thread/INFO]: Subtitle colorize stats - Calls: 605, Avg: {:.2f}us, Min: 1.5102479338842976us, Max: 0us
+[00:29:47] [Render thread/INFO]: Subtitle colorize stats - Calls: 632, Avg: {:.2f}us, Min: 1.4188291139240508us, Max: 0us
+[00:29:57] [Render thread/INFO]: Subtitle colorize stats - Calls: 575, Avg: {:.2f}us, Min: 1.3457391304347825us, Max: 0us
+[00:30:07] [Render thread/INFO]: Subtitle colorize stats - Calls: 632, Avg: {:.2f}us, Min: 1.7091772151898734us, Max: 0us
+[00:30:17] [Render thread/INFO]: Subtitle colorize stats - Calls: 596, Avg: {:.2f}us, Min: 1.360234899328859us, Max: 0us
+[00:30:27] [Render thread/INFO]: Subtitle colorize stats - Calls: 694, Avg: {:.2f}us, Min: 1.3005763688760807us, Max: 0us
+[00:30:38] [Render thread/INFO]: Subtitle colorize stats - Calls: 686, Avg: {:.2f}us, Min: 1.450728862973761us, Max: 0us
+[00:30:48] [Render thread/INFO]: Subtitle colorize stats - Calls: 650, Avg: {:.2f}us, Min: 1.4655384615384615us, Max: 0us
+[00:30:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 584, Avg: {:.2f}us, Min: 1.4313356164383562us, Max: 0us
+[00:31:08] [Render thread/INFO]: Subtitle colorize stats - Calls: 596, Avg: {:.2f}us, Min: 1.9255033557046979us, Max: 0us
+[00:31:18] [Render thread/INFO]: Subtitle colorize stats - Calls: 676, Avg: {:.2f}us, Min: 1.261094674556213us, Max: 0us
+[00:31:28] [Render thread/INFO]: Subtitle colorize stats - Calls: 569, Avg: {:.2f}us, Min: 1.3771528998242533us, Max: 0us
+[00:31:38] [Render thread/INFO]: Subtitle colorize stats - Calls: 563, Avg: {:.2f}us, Min: 1.7078152753108347us, Max: 0us
+[00:31:48] [Render thread/INFO]: Subtitle colorize stats - Calls: 641, Avg: {:.2f}us, Min: 1.4358814352574103us, Max: 0us
+[00:31:58] [Render thread/INFO]: Subtitle colorize stats - Calls: 783, Avg: {:.2f}us, Min: 1.2540229885057472us, Max: 0us
+[00:31:59] [Render thread/INFO]: [System] [CHAT] 已将[Makino_18 head]Makino_18传送至1131.500000, 260.500000, 630.500000
+[00:32:09] [Render thread/INFO]: Subtitle colorize stats - Calls: 8129, Avg: {:.2f}us, Min: 1.041308894082913us, Max: 0us
+[00:32:19] [Render thread/INFO]: Subtitle colorize stats - Calls: 10447, Avg: {:.2f}us, Min: 0.7182731884751603us, Max: 0us
+[00:32:29] [Render thread/INFO]: Subtitle colorize stats - Calls: 10579, Avg: {:.2f}us, Min: 0.7125909821344172us, Max: 0us
+[00:32:39] [Render thread/INFO]: Subtitle colorize stats - Calls: 9196, Avg: {:.2f}us, Min: 0.8051979121357111us, Max: 0us
+[00:32:49] [Render thread/INFO]: Subtitle colorize stats - Calls: 8630, Avg: {:.2f}us, Min: 0.9428157589803013us, Max: 0us
+[00:32:59] [Render thread/INFO]: Subtitle colorize stats - Calls: 7956, Avg: {:.2f}us, Min: 0.8388888888888889us, Max: 0us
+[00:33:09] [Render thread/INFO]: Subtitle colorize stats - Calls: 7944, Avg: {:.2f}us, Min: 0.7802995971802618us, Max: 0us
+[00:33:19] [Render thread/INFO]: Subtitle colorize stats - Calls: 7940, Avg: {:.2f}us, Min: 0.7721788413098237us, Max: 0us
+[00:33:29] [Render thread/INFO]: Subtitle colorize stats - Calls: 4644, Avg: {:.2f}us, Min: 0.7706933677863911us, Max: 0us
+[00:33:39] [Render thread/INFO]: Subtitle colorize stats - Calls: 4371, Avg: {:.2f}us, Min: 0.7199954243880119us, Max: 0us
+[00:33:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 162, Avg: {:.2f}us, Min: 2.269135802469136us, Max: 0us
+[00:34:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 2812, Avg: {:.2f}us, Min: 0.7957681365576103us, Max: 0us
+[00:34:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 8610, Avg: {:.2f}us, Min: 0.7364808362369338us, Max: 0us
+[00:34:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 10778, Avg: {:.2f}us, Min: 0.6954258675078865us, Max: 0us
+[00:34:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 12381, Avg: {:.2f}us, Min: 0.67027703739601us, Max: 0us
+[00:34:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 9137, Avg: {:.2f}us, Min: 0.7543504432527087us, Max: 0us
+[00:34:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 7762, Avg: {:.2f}us, Min: 0.7531048698788971us, Max: 0us
+[00:35:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 7665, Avg: {:.2f}us, Min: 0.7661709067188519us, Max: 0us
+[00:35:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 7829, Avg: {:.2f}us, Min: 0.735023630093243us, Max: 0us
+[00:35:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 10988, Avg: {:.2f}us, Min: 0.681789224608664us, Max: 0us
+[00:35:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 12020, Avg: {:.2f}us, Min: 0.6520715474209651us, Max: 0us
+[00:35:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 10576, Avg: {:.2f}us, Min: 0.6987140695915279us, Max: 0us
+[00:35:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 7779, Avg: {:.2f}us, Min: 0.7307880190255817us, Max: 0us
+[00:36:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 7967, Avg: {:.2f}us, Min: 0.7533827036525669us, Max: 0us
+[00:36:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 7728, Avg: {:.2f}us, Min: 0.7427406832298136us, Max: 0us
+[00:36:23] [Render thread/WARN]: colorizeSubtitle took 1ms - potential performance issue
+[00:36:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 10449, Avg: {:.2f}us, Min: 0.7960570389510958us, Max: 0us
+[00:36:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 9370, Avg: {:.2f}us, Min: 0.7015261472785486us, Max: 0us
+[00:36:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 9045, Avg: {:.2f}us, Min: 0.7052294085129907us, Max: 0us
+[00:36:48] [Render thread/INFO]: Loaded 1073 advancements
+[00:36:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 7945, Avg: {:.2f}us, Min: 0.7689238514789175us, Max: 0us
+[00:37:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 7435, Avg: {:.2f}us, Min: 0.7753732347007398us, Max: 0us
+[00:37:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 8756, Avg: {:.2f}us, Min: 0.7543056190041114us, Max: 0us
+[00:37:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 7770, Avg: {:.2f}us, Min: 0.7467052767052766us, Max: 0us
+[00:37:30] [Render thread/INFO]: Loaded 1077 advancements
+[00:37:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 8508, Avg: {:.2f}us, Min: 0.7269981194170193us, Max: 0us
+[00:37:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 5318, Avg: {:.2f}us, Min: 0.7014667168108312us, Max: 0us
+[00:37:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 5610, Avg: {:.2f}us, Min: 0.6190374331550802us, Max: 0us
+[00:38:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 5351, Avg: {:.2f}us, Min: 0.6442347224817792us, Max: 0us
+[00:38:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 5631, Avg: {:.2f}us, Min: 0.6117030722784585us, Max: 0us
+[00:38:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 5349, Avg: {:.2f}us, Min: 0.626434847635072us, Max: 0us
+[00:38:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 8641, Avg: {:.2f}us, Min: 0.7219997685453072us, Max: 0us
+[00:38:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 8100, Avg: {:.2f}us, Min: 0.7455061728395062us, Max: 0us
+[00:38:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 7675, Avg: {:.2f}us, Min: 0.7802605863192182us, Max: 0us
+[00:39:05] [Render thread/INFO]: Subtitle colorize stats - Calls: 7637, Avg: {:.2f}us, Min: 0.7721880319497185us, Max: 0us
+[00:39:15] [Render thread/INFO]: Subtitle colorize stats - Calls: 8906, Avg: {:.2f}us, Min: 0.7537727374803503us, Max: 0us
+[00:39:25] [Render thread/INFO]: Subtitle colorize stats - Calls: 11002, Avg: {:.2f}us, Min: 0.7061988729321942us, Max: 0us
+[00:39:35] [Render thread/INFO]: Subtitle colorize stats - Calls: 10333, Avg: {:.2f}us, Min: 0.6899061260040646us, Max: 0us
+[00:39:45] [Render thread/INFO]: Subtitle colorize stats - Calls: 11498, Avg: {:.2f}us, Min: 0.6718298834579927us, Max: 0us
+[00:39:55] [Render thread/INFO]: Subtitle colorize stats - Calls: 11495, Avg: {:.2f}us, Min: 0.6375206611570249us, Max: 0us
+[00:40:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 11117, Avg: {:.2f}us, Min: 0.6939372132769632us, Max: 0us
+[00:40:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 7772, Avg: {:.2f}us, Min: 0.7471693257848687us, Max: 0us
+[00:40:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 8758, Avg: {:.2f}us, Min: 0.7391413564740807us, Max: 0us
+[00:40:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 8080, Avg: {:.2f}us, Min: 0.730618811881188us, Max: 0us
+[00:40:39] [Render thread/INFO]: [System] [CHAT] 已成功填充53个方块
+[00:40:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 8053, Avg: {:.2f}us, Min: 0.7401589469762822us, Max: 0us
+[00:40:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 10833, Avg: {:.2f}us, Min: 0.7099510754177052us, Max: 0us
+[00:41:06] [Render thread/INFO]: Subtitle colorize stats - Calls: 10867, Avg: {:.2f}us, Min: 0.6997055305051992us, Max: 0us
+[00:41:16] [Render thread/INFO]: Subtitle colorize stats - Calls: 11070, Avg: {:.2f}us, Min: 0.6739656729900633us, Max: 0us
+[00:41:26] [Render thread/INFO]: Subtitle colorize stats - Calls: 9197, Avg: {:.2f}us, Min: 0.7057736218332065us, Max: 0us
+[00:41:36] [Render thread/INFO]: Subtitle colorize stats - Calls: 7785, Avg: {:.2f}us, Min: 0.7457032755298652us, Max: 0us
+[00:41:46] [Render thread/INFO]: Subtitle colorize stats - Calls: 7686, Avg: {:.2f}us, Min: 0.7398516783762685us, Max: 0us
+[00:41:56] [Render thread/INFO]: Subtitle colorize stats - Calls: 7782, Avg: {:.2f}us, Min: 0.7453867900282705us, Max: 0us
+[00:42:01] [Netty NIO IO #48/INFO]: Client disconnected from server, resetting state...
+[00:42:01] [Netty NIO IO #48/INFO]: Cleared sync data to prevent memory leak
+[00:42:01] [Render thread/INFO]: Stopping [1] Worker Daemon threads
+[00:42:01] [Render thread/INFO]: Xaero hud session finalized.
+[00:42:01] [Render thread/INFO]: Finalizing world map session...
+[00:42:01] [Thread-4/INFO]: World map cleaned normally!
+[00:42:01] [Render thread/INFO]: World map session finalized.
+[00:42:01] [Render thread/ERROR]: Couldn't load file/欢迎来到CSN 1.0.zip pack metadata: Pack declares support for version newer than 64, but is missing mandatory fields min_format and max_format
+[00:42:02] [Render thread/INFO]: Reloading ResourceManager: serilum_mod_translations, vanilla, alexscaves, alexsmobs, appleskin, autoswitch, betteradvancements, betterf3, carpet, chat_heads, cloth-config, codxlib, collective, conditional-mixin, connectedglass, controlling, cratedelight, diggusmaximus, displaydelight, durabilityviewer, eastersdelight, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-command-api-v2, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-resource-loader-v1, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-serialization-api-v1, fabric-sound-api-v1, fabric-tag-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, farmersdelight, frightsdelight, fusion, fwaystones, gammautils, gca, gca_wrapper, imblocker, inventoryprofilesnext, lagdetective, lambdynlights, lambdynlights_api, lambdynlights_runtime, libipn, litematica, malilib, mapsyncer, mc-province, midnightlib, minihud, modmenu, moredelight, mr_jakes_buildtools, owo, placeholder-api, pride, reeses-sodium-options, roughlyenoughitems, rusticdelight, searchables, shur, sit, smoothscroll, sodium, sodium-extra, spruceui, storagedelight, supermartijn642corelib, tweakeroo, wthit, xaerolib, xaerominimap, xaeros-playerposition, xaeroworldmap
+[00:42:02] [Worker-Main-67/INFO]: Found unifont_pua-17.0.01.hex, loading
+[00:42:02] [Worker-Main-62/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[00:42:02] [Worker-Main-83/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[00:42:02] [Render thread/INFO]: Stopping worker threads
+[00:42:02] [Render thread/INFO]: 载入 0 个行政区划（default__unknown）
+[00:42:02] [Render thread/INFO]: Stopping [2] Placement Manager Daemon threads
+[00:42:02] [Render thread/INFO]: Stopping [1] Worker Daemon threads
+[00:42:02] [Render thread/INFO]: Stopping [0] Placement Manager Daemon threads
+[00:42:03] [Render thread/INFO]: Stopping [1] Worker Daemon threads
+[00:42:03] [Render thread/INFO]: Stopping!
+[00:42:03] [Render thread/INFO]: Stopping [0] Placement Manager Daemon threads
+[00:42:03] [Render thread/INFO]: Stopping [1] Worker Daemon threads
+[00:42:03] [Worker-Main-73/WARN]: Missing block model: farmersdelight:block/pie
+[00:42:03] [Worker-Main-73/WARN]: Missing block model: farmersdelight:block/pie_slice1
+[00:42:03] [Worker-Main-73/WARN]: Missing block model: farmersdelight:block/pie_slice3
+[00:42:03] [Worker-Main-73/WARN]: Missing block model: farmersdelight:block/pie_slice2
+[00:42:03] [Worker-Main-73/WARN]: Missing block model: farmersdelight:block/crop_cross
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing textures in model eastersdelight:item/egg_pattern:
+    minecraft:block_or_item:eastersdelight:item/egg_pattern
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/stink_ray_hand_base:
+    #texture
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/stink_ray_empty_hand:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/skelewag_sword_blocking:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/tab_icon:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/blood_gun_empty:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/fancy_item:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/shield_of_the_deep_blocking:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/effect_item:
+    particle
+[00:42:04] [ForkJoinPool.commonPool-worker-56/WARN]: Missing texture references in model alexsmobs:item/stink_ray_hand:
+    particle

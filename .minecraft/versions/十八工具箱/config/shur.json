@@ -1,0 +1,48 @@
+{
+  "maxDuration": 3000,
+  "startRatio": 1.0,
+  "endRatio": 0.29411764705882354,
+  "backgroundColor": -872415232,
+  "scale": 1.0,
+  "bottomMargin": 30.0,
+  "sideMargin": 1.0,
+  "ikunEasterEgg": true,
+  "colorSettings": {
+    "ambient": "DARK_BLUE",
+    "block": {
+      "generic": "WHITE",
+      "interact": "AQUA",
+      "working": "DARK_AQUA",
+      "dangerous": "RED",
+      "crop": "DARK_GREEN",
+      "other": "DARK_GRAY"
+    },
+    "enchant": "DARK_PURPLE",
+    "entity": {
+      "mob": {
+        "player": {
+          "attack": "GOLD",
+          "hurt": "DARK_RED",
+          "other": "WHITE"
+        },
+        "passive": "GREEN",
+        "neutral": "YELLOW",
+        "hostile": "RED",
+        "boss": "LIGHT_PURPLE"
+      },
+      "vehicle": "GRAY",
+      "projectile": "GOLD",
+      "explosive": "RED",
+      "decoration": "GRAY",
+      "other": "DARK_GRAY"
+    },
+    "item": {
+      "weapon": "GOLD",
+      "armor": "DARK_GREEN",
+      "tool": "BLUE",
+      "other": "WHITE"
+    },
+    "other": "WHITE"
+  },
+  "customList": []
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "09d8ad2a897b4c6f9fcd0be8c2e3ecac",
+  "name" : "Buzhidao",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzM2NTYyMTYwNiwKICAicHJvZmlsZUlkIiA6ICIwOWQ4YWQyYTg5N2I0YzZmOWZjZDBiZThjMmUzZWNhYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdXpoaWRhbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNDEzOGVjMzEyMzEyMGVhNWRkMjdkZjFkYjEwMmViYWY2ZWIwNDEwZTJjZWEwZjVjOWM3MTkwMGRlNmZlMGVlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

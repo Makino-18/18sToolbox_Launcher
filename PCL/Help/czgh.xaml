@@ -1,0 +1,18 @@
+<local:MyCard Title="基础信息" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4"
+            Text="ID 川泽广浩" />   
+        <TextBlock Margin="0,0,0,4"
+            Text="你好，我是巴别塔的恶灵  罗德岛的领导人  整合运动的毁灭者  源石计划的执行者  深夜口腔泡面人  异世界的旅行者  蒙德的荣誉骑士  璃月的危机救星  须弥的最初贤者  稻妻的大通缉犯  枫丹的普通观众  莱欧斯利的狗  银河球棒侠  星穹列车的无名客  贝洛伯格的变量  罗浮仙舟的盟友  匹诺康尼的大救星  一般路过白给狐  九尾狗官    混沌机枪哥  轻收DD人 千喉939  害羞的096 疫医049  恐怖牢大106  旧AI079  钢筋混凝土雕像173  上班只为下班的保安  电炮白给科学家  恐怖直立猿  可恶的两格高生物  一般传奇调查员  康斯顿镇的开锁战神，您可以称呼我为川泽广浩" /> 
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="社媒" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="Bilibili[川泽广浩]" Info="川泽广浩的 Bilibili 主页" 
+            EventType="打开网页" EventData="https://space.bilibili.com/381767543" Type="Clickable" />
+		<local:MyListItem Margin="-5,4,-5,5"
+		    Title="复制 QQ 号" EventType="复制文本" EventData="3280074729" Type="Clickable" />
+    </StackPanel>
+</local:MyCard>
