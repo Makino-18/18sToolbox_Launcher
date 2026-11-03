@@ -16,10 +16,6 @@
       "sha256": "5ee5a6e55d3e32eb2516384c6d8045ca80e146ccd01868dd70d04ee3c065e24d",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/servers.dat_old"
     },
-    ".minecraft/versions/十八工具箱/十八工具箱.jar": {
-      "sha256": "1473c9489ac50fda3c435049a76a70d61a10b8610db27f5ba9d8756b686cd3bd",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1.jar"
-    },
     ".minecraft/versions/十八工具箱/十八工具箱.json": {
       "sha256": "f2e8ff1b9284077a24887b08821bd4b287f1363fb383db338e21777f5f7f11a3",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1.json"
