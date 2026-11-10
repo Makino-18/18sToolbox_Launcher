@@ -1,0 +1,158 @@
+{
+	autofocus_id: "16B047EB9FA093F2",
+	consume_items: false,
+	default_hide_dependency_lines: false,
+	default_quest_shape: "",
+	filename: "2EB9815BE1385605",
+	group: "48A806F8F9B55BA8",
+	icon: {
+		id: "minecraft:furnace"
+	},
+	id: "2EB9815BE1385605",
+	images: [ ],
+	order_index: 0,
+	quest_links: [ ],
+	quests: [
+		{
+			dependencies: ["16B047EB9FA093F2"],
+			hide_dependency_lines: true,
+			id: "2452B7951B17A761",
+			rewards: [
+				{
+					id: "07E8A64A1DD5D9AE",
+					item: {
+						count: 1,
+						id: "minecraft:iron_sword"
+					},
+					type: "item"
+				},
+				{
+					id: "0E378D711FA93957",
+					item: {
+						count: 1,
+						id: "minecraft:iron_pickaxe"
+					},
+					type: "item"
+				},
+				{
+					id: "006FCF3A52DFF867",
+					item: {
+						count: 1,
+						id: "minecraft:bucket"
+					},
+					type: "item"
+				}
+			],
+			tasks: [{
+				consume_items: false,
+				count: 5L,
+				id: "065120219F5DAFAD",
+				item: { count: 1, id: "minecraft:iron_ingot" },
+				only_from_crafting: false,
+				type: "item"
+			}],
+			x: 0.0d,
+			y: -1.5d
+		},
+		{
+			dependencies: ["16B047EB9FA093F2"],
+			hide_dependency_lines: true,
+			hide_dependent_lines: true,
+			id: "3F6910E20ABEA1D2",
+			rewards: [{
+				id: "0A7288D912826F68",
+				item: {
+					count: 1,
+					id: "minecraft:lightning_rod"
+				},
+				type: "item"
+			}],
+			tasks: [{
+				count: 5L,
+				id: "5C3635A3CC14851C",
+				item: { count: 1, id: "minecraft:copper_ingot" },
+				type: "item"
+			}],
+			x: 0.0d,
+			y: -3.0d
+		},
+		{
+			dependencies: ["16B047EB9FA093F2"],
+			hide_dependency_lines: true,
+			id: "03ADD12F4F224C48",
+			tasks: [{
+				count: 2L,
+				id: "3A1EC20312D2DF5B",
+				item: { count: 1, id: "minecraft:diamond" },
+				type: "item"
+			}],
+			x: 1.5d,
+			y: -1.5d
+		},
+		{
+			dependencies: ["16B047EB9FA093F2"],
+			hide_dependency_lines: true,
+			id: "4E3A0E99D72535A2",
+			rewards: [{
+				count: 32,
+				id: "70E31E39F6C415A9",
+				item: {
+					count: 1,
+					id: "minecraft:emerald"
+				},
+				type: "item"
+			}],
+			tasks: [{
+				count: 5L,
+				id: "705D93E9D0932958",
+				item: { count: 1, id: "minecraft:emerald" },
+				type: "item"
+			}],
+			x: 3.0d,
+			y: -3.0d
+		},
+		{
+			dependencies: ["16B047EB9FA093F2"],
+			hide_dependency_lines: true,
+			hide_lock_icon: true,
+			id: "24CB1E9BE582C083",
+			rewards: [
+				{
+					count: 16,
+					id: "4B00942DA30CCF4E",
+					item: {
+						count: 1,
+						id: "minecraft:redstone"
+					},
+					type: "item"
+				},
+				{
+					exclude_from_claim_all: true,
+					id: "6212761E5A084E09",
+					table_id: 2834288938302553641L,
+					type: "choice"
+				}
+			],
+			tasks: [{
+				count: 5L,
+				id: "6E6FC7763BCBA3A0",
+				item: { count: 1, id: "minecraft:redstone" },
+				type: "item"
+			}],
+			x: 3.0d,
+			y: -1.5d
+		},
+		{
+			dependencies: ["0717DFFB0D1B3771"],
+			hide_until_deps_complete: true,
+			icon: {
+				id: "minecraft:furnace"
+			},
+			id: "16B047EB9FA093F2",
+			shape: "square",
+			size: 0.9d,
+			x: 1.5d,
+			y: -3.0d
+		}
+	]
+}

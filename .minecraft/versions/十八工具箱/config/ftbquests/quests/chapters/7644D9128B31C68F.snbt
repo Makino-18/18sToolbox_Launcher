@@ -1,0 +1,88 @@
+{
+	autofocus_id: "11134B98D4AFA745",
+	consume_items: false,
+	default_hide_dependency_lines: false,
+	default_quest_shape: "square",
+	filename: "7644D9128B31C68F",
+	group: "35C02996A28A7E05",
+	icon: {
+		id: "minecraft:netherrack"
+	},
+	id: "7644D9128B31C68F",
+	images: [ ],
+	order_index: 2,
+	quest_links: [ ],
+	quests: [
+		{
+			dependencies: ["11134B98D4AFA745"],
+			hide_dependency_lines: true,
+			hide_until_deps_complete: true,
+			id: "5A97D78E393D2C36",
+			rewards: [{
+				id: "3490CB40CA71E931",
+				item: {
+					count: 1,
+					id: "minecraft:wither_skeleton_skull"
+				},
+				type: "item"
+			}],
+			shape: "circle",
+			tasks: [{
+				icon: {
+					id: "minecraft:nether_bricks"
+				},
+				id: "1929859BA07FAF13",
+				structure: "minecraft:fortress",
+				type: "structure"
+			}],
+			x: 0.0d,
+			y: -2.5d
+		},
+		{
+			dependencies: ["11134B98D4AFA745"],
+			hide_dependency_lines: true,
+			hide_until_deps_complete: true,
+			id: "0D4528FD6DE1ED09",
+			rewards: [
+				{
+					id: "44F7F5E2D1D23C5C",
+					item: {
+						count: 1,
+						id: "minecraft:piglin_head"
+					},
+					type: "item"
+				},
+				{
+					id: "5F264AA3E76FDDDE",
+					item: {
+						count: 1,
+						id: "minecraft:golden_sword"
+					},
+					type: "item"
+				}
+			],
+			shape: "circle",
+			tasks: [{
+				icon: {
+					id: "minecraft:piglin_head"
+				},
+				id: "432AD9BC4E4EE381",
+				structure: "minecraft:mineshaft",
+				type: "structure"
+			}],
+			x: 1.5d,
+			y: -4.0d
+		},
+		{
+			dependencies: ["1E52A1A068BF218B"],
+			hide_until_deps_complete: true,
+			icon: {
+				id: "minecraft:netherrack"
+			},
+			id: "11134B98D4AFA745",
+			shape: "hexagon",
+			x: 0.0d,
+			y: -4.0d
+		}
+	]
+}

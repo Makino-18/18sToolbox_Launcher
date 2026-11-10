@@ -1,0 +1,16 @@
+{
+  "devEnvironment": true,
+  "questEditing": true,
+  "questEditingRequiresOperator": true,
+  "inventoryScanIntervalTicks": 10,
+  "announceQuestCompletion": true,
+  "questCompletionSoundVolume": 0.35,
+  "questSidebarOpen": true,
+  "questBookSpawnPolicy": "WORLD_SETTINGS",
+  "activeTheme": "default",
+  "questBookZoom": 1.0,
+  "lastQuestCategory": "introduction",
+  "questBookPanX": 0,
+  "questBookPanY": 0,
+  "expandedQuestCategories": []
+}

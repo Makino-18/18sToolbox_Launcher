@@ -1,0 +1,91 @@
+{
+	hide_tooltip: true,
+	id: "0F525B6A767A1D57",
+	loot_size: 1,
+	order_index: 2,
+	rewards: [
+		{
+			count: 3,
+			id: "59DE36F65CEA79A3",
+			item: {
+				count: 1,
+				id: "minecraft:iron_ingot"
+			},
+			weight: 2.0f
+		},
+		{
+			count: 16,
+			id: "18A6389C8DEE7CE7",
+			item: {
+				count: 1,
+				id: "minecraft:smooth_stone"
+			},
+			team_reward: false,
+			weight: 10.0f
+		},
+		{
+			count: 8,
+			id: "69ED4572F97FD29A",
+			item: {
+				count: 1,
+				id: "minecraft:coal"
+			},
+			weight: 5.0f
+		},
+		{
+			count: 16,
+			id: "793F75A6A97EEEDF",
+			item: {
+				count: 1,
+				id: "minecraft:sand"
+			},
+			weight: 10.0f
+		},
+		{
+			count: 16,
+			id: "00E86103F5FF7D22",
+			item: {
+				count: 1,
+				id: "minecraft:white_wool"
+			},
+			weight: 10.0f
+		},
+		{
+			count: 8,
+			id: "4A7C983B410BAB75",
+			item: {
+				count: 1,
+				id: "minecraft:copper_ingot"
+			},
+			weight: 5.0f
+		},
+		{
+			count: 16,
+			id: "6BE1BC925CFE2323",
+			item: {
+				count: 1,
+				id: "minecraft:gravel"
+			},
+			weight: 10.0f
+		},
+		{
+			count: 16,
+			id: "4128C6C528249433",
+			item: {
+				count: 1,
+				id: "minecraft:torch"
+			},
+			weight: 10.0f
+		},
+		{
+			count: 16,
+			id: "333E42CB9F99FFB4",
+			item: {
+				count: 1,
+				id: "minecraft:bone_meal"
+			},
+			weight: 10.0f
+		}
+	],
+	use_title: true
+}

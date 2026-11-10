@@ -4,5 +4,6 @@
   "waila:harvest": true,
   "waila:extra": true,
   "waila:fabric": true,
-  "frightsdelight:plugin": true
+  "frightsdelight:plugin": true,
+  "waila:team_reborn_energy": true
 }

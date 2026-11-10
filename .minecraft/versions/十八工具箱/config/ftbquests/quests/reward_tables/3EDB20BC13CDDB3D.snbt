@@ -1,0 +1,105 @@
+{
+	hide_tooltip: true,
+	id: "3EDB20BC13CDDB3D",
+	loot_size: 1,
+	order_index: 0,
+	rewards: [
+		{
+			count: 32,
+			id: "6773EED13493E0B1",
+			item: {
+				count: 1,
+				id: "minecraft:oak_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "230A0C46AC7A2B5D",
+			item: {
+				count: 1,
+				id: "minecraft:spruce_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "4F1E2F66D761C627",
+			item: {
+				count: 1,
+				id: "minecraft:birch_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "6576AB80C368456E",
+			item: {
+				count: 1,
+				id: "minecraft:jungle_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "07BB0A6EA91E4CFB",
+			item: {
+				count: 1,
+				id: "minecraft:acacia_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "467FFCBA20631F20",
+			item: {
+				count: 1,
+				id: "minecraft:dark_oak_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "64B5E077551B4C74",
+			item: {
+				count: 1,
+				id: "minecraft:mangrove_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "4CDFADF2F8E80D88",
+			item: {
+				count: 1,
+				id: "minecraft:pale_oak_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "19761E0DB230937B",
+			item: {
+				count: 1,
+				id: "minecraft:crimson_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "4A9D7D3DD6376E8D",
+			item: {
+				count: 1,
+				id: "minecraft:warped_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "23AD5E463AD94C65",
+			item: {
+				count: 1,
+				id: "alexscaves:pewen_planks"
+			}
+		},
+		{
+			count: 32,
+			id: "30028B21A6A7F1CA",
+			item: {
+				count: 1,
+				id: "alexscaves:thornwood_planks"
+			}
+		}
+	],
+	use_title: true
+}

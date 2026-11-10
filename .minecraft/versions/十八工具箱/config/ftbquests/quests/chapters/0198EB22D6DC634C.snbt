@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false,
+	default_quest_shape: "",
+	filename: "0198EB22D6DC634C",
+	group: "7C4D70A16C02CCEA",
+	icon: {
+		components: {
+			"minecraft:fireworks": {
+				flight_duration: 3b
+			}
+		},
+		id: "minecraft:firework_rocket"
+	},
+	id: "0198EB22D6DC634C",
+	images: [ ],
+	order_index: 0,
+	quest_links: [ ],
+	quests: [ ]
+}

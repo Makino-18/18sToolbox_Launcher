@@ -1,0 +1,22 @@
+{
+	hide_tooltip: true,
+	id: "78D4862F8246077E",
+	loot_size: 1,
+	order_index: 4,
+	rewards: [
+		{ id: "1BB1DA175B09BD3B", item: { count: 1, id: "minecraft:stone_pickaxe" } },
+		{ id: "192B538EECBE5693", item: { count: 1, id: "minecraft:stone_axe" } },
+		{ id: "2BFAA7DE9A8C7555", item: { count: 1, id: "minecraft:stone_hoe" } },
+		{ id: "1CA734F3089FD124", item: { count: 1, id: "minecraft:stone_shovel" } },
+		{ id: "1AB71D910C50211C", item: { count: 1, id: "minecraft:stone_sword" } },
+		{
+			count: 5,
+			id: "2E46CD72A89B22C6",
+			item: {
+				count: 1,
+				id: "minecraft:torch"
+			}
+		}
+	],
+	use_title: true
+}

@@ -1,0 +1,37 @@
+{
+	hide_tooltip: true,
+	id: "27556AC5CE57BE29",
+	loot_size: 1,
+	order_index: 3,
+	rewards: [
+		{
+			count: 4,
+			id: "5EB0CC776CCDB7A1",
+			item: {
+				count: 1,
+				id: "minecraft:repeater"
+			}
+		},
+		{
+			count: 4,
+			id: "7ECA7ADF4EF95569",
+			item: {
+				count: 1,
+				id: "minecraft:comparator"
+			}
+		},
+		{
+			count: 8,
+			id: "003BE517AAAA6368",
+			item: {
+				count: 1,
+				id: "minecraft:redstone_torch"
+			}
+		},
+		{ id: "61D5F51C2D749FE0", item: { count: 1, id: "minecraft:observer" } },
+		{ id: "2FB14D373223E4DF", item: { count: 1, id: "minecraft:piston" } },
+		{ id: "579F7F51EB516C3B", item: { count: 1, id: "minecraft:dispenser" } },
+		{ id: "17F05865BD91D866", item: { count: 1, id: "minecraft:dropper" } }
+	],
+	use_title: true
+}

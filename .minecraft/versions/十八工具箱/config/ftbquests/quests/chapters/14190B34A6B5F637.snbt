@@ -1,0 +1,307 @@
+{
+	autofocus_id: "552C9F4E36CE63E7",
+	consume_items: false,
+	default_hide_dependency_lines: false,
+	default_quest_shape: "",
+	filename: "14190B34A6B5F637",
+	group: "35C02996A28A7E05",
+	hide_quest_details_until_startable: true,
+	hide_quest_until_deps_complete: true,
+	icon: {
+		id: "minecraft:oak_log"
+	},
+	id: "14190B34A6B5F637",
+	images: [ ],
+	order_index: 0,
+	quest_links: [ ],
+	quests: [
+		{
+			hide_dependency_lines: false,
+			id: "552C9F4E36CE63E7",
+			require_sequential_tasks: true,
+			rewards: [{
+				exclude_from_claim_all: true,
+				id: "760B17D363D58F53",
+				table_id: 8706731518221223806L,
+				type: "all_table"
+			}],
+			shape: "circle",
+			tasks: [{
+				dimension: "minecraft:overworld",
+				icon: {
+					id: "minecraft:grass_block"
+				},
+				id: "2E7D6C5A786A79EA",
+				type: "dimension"
+			}],
+			x: 3.5d,
+			y: -2.0d
+		},
+		{
+			dependencies: ["552C9F4E36CE63E7"],
+			hide_dependency_lines: false,
+			hide_until_deps_visible: false,
+			icon: {
+				id: "minecraft:oak_log"
+			},
+			id: "7BA20468B7B79711",
+			invisible_until_tasks: 1,
+			progression_mode: "flexible",
+			require_sequential_tasks: true,
+			rewards: [
+				{
+					auto: "disabled",
+					exclude_from_claim_all: true,
+					id: "2A81E4FC8AA13771",
+					table_id: 4529249842409364285L,
+					team_reward: false,
+					type: "choice"
+				},
+				{
+					exclude_from_claim_all: true,
+					id: "52AF0375AF8A4E9F",
+					table_id: 7198997356060102212L,
+					team_reward: false,
+					type: "choice"
+				}
+			],
+			shape: "circle",
+			tasks: [{
+				consume_items: false,
+				id: "1F75E286779C175C",
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" },
+				only_from_crafting: false,
+				optional_task: true,
+				type: "item"
+			}],
+			x: 2.0d,
+			y: -2.0d
+		},
+		{
+			dependencies: ["552C9F4E36CE63E7"],
+			hide_dependency_lines: false,
+			hide_details_until_startable: true,
+			hide_until_deps_complete: true,
+			icon: {
+				id: "minecraft:red_bed"
+			},
+			id: "4DDEAFC0D6B430B6",
+			require_sequential_tasks: true,
+			rewards: [{
+				exclude_from_claim_all: true,
+				id: "3795605AF91D2F44",
+				table_id: 1104045371471568215L,
+				type: "random"
+			}],
+			shape: "circle",
+			tasks: [{
+				icon: {
+					id: "minecraft:red_bed"
+				},
+				id: "229401FCC7ED5872",
+				stat: "minecraft:sleep_in_bed",
+				type: "stat",
+				value: 1
+			}],
+			x: 3.5d,
+			y: -3.5d
+		},
+		{
+			dependencies: ["552C9F4E36CE63E7"],
+			hide_dependency_lines: false,
+			icon: {
+				id: "minecraft:ender_pearl"
+			},
+			id: "7EDF7FDF1ED0D1BB",
+			rewards: [{
+				count: 5,
+				id: "276695C0BA99D972",
+				item: {
+					count: 1,
+					id: "minecraft:ender_pearl"
+				},
+				type: "item"
+			}],
+			shape: "circle",
+			tasks: [{
+				id: "65BC016D9D4D125C",
+				item: { count: 1, id: "minecraft:ender_pearl" },
+				type: "item"
+			}],
+			x: 5.0d,
+			y: -2.0d
+		},
+		{
+			can_repeat: false,
+			dependencies: ["7EDF7FDF1ED0D1BB"],
+			hide_dependency_lines: false,
+			hide_details_until_startable: false,
+			hide_text_until_complete: false,
+			hide_until_deps_complete: false,
+			hide_until_deps_visible: false,
+			id: "7AC45C5FCE7FA0B7",
+			min_required_dependencies: 1,
+			progression_mode: "linear",
+			rewards: [{
+				count: 16,
+				id: "0A8E7B262F512276",
+				item: {
+					count: 1,
+					id: "minecraft:blaze_powder"
+				},
+				type: "item"
+			}],
+			shape: "circle",
+			tasks: [{
+				id: "1EEB870E91583EE8",
+				item: { count: 1, id: "minecraft:ender_eye" },
+				type: "item"
+			}],
+			x: 6.5d,
+			y: -2.0d
+		},
+		{
+			can_repeat: false,
+			dependencies: ["7AC45C5FCE7FA0B7"],
+			hide_dependency_lines: false,
+			hide_details_until_startable: false,
+			hide_text_until_complete: false,
+			hide_until_deps_complete: false,
+			hide_until_deps_visible: false,
+			id: "5094D54B87A4AABF",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
+			rewards: [{
+				auto: "enabled",
+				command: "/ftbquests change_progress @p complete 50FA2D42ABEAA754",
+				icon: {
+					id: "minecraft:end_stone"
+				},
+				id: "361AB7C5EE61AA62",
+				permission_level: 2,
+				type: "command"
+			}],
+			shape: "hexagon",
+			tasks: [{
+				dimension: "minecraft:the_end",
+				icon: {
+					id: "minecraft:end_portal_frame"
+				},
+				id: "45EB9A02412AA105",
+				type: "dimension"
+			}],
+			x: 8.0d,
+			y: -2.0d
+		},
+		{
+			dependencies: ["552C9F4E36CE63E7"],
+			id: "1E52A1A068BF218B",
+			rewards: [
+				{
+					auto: "enabled",
+					command: "/ftbquests change_progress @p complete 11134B98D4AFA745",
+					icon: {
+						id: "minecraft:netherrack"
+					},
+					id: "3E6A449FBFC53A74",
+					ignore_reward_blocking: true,
+					permission_level: 2,
+					type: "command"
+				},
+				{
+					count: 2,
+					id: "6C16361BFABEE936",
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:fire_resistance"
+							}
+						},
+						count: 1,
+						id: "minecraft:potion"
+					},
+					type: "item"
+				}
+			],
+			shape: "hexagon",
+			tasks: [{
+				dimension: "minecraft:the_nether",
+				icon: {
+					id: "minecraft:obsidian"
+				},
+				id: "7882DB5B23B3F102",
+				type: "dimension"
+			}],
+			x: 3.5d,
+			y: -0.5d
+		},
+		{
+			dependencies: ["7BA20468B7B79711"],
+			hide_until_deps_complete: false,
+			icon: {
+				id: "minecraft:grass_block"
+			},
+			id: "2359016D93C62F73",
+			rewards: [{
+				auto: "enabled",
+				command: "/ftbquests change_progress @p complete 366B08B52E355BCB",
+				icon: {
+					id: "minecraft:grass_block"
+				},
+				id: "70A4FE38984C6445",
+				team_reward: false,
+				type: "command"
+			}],
+			shape: "hexagon",
+			tasks: [{
+				dimension: "minecraft:overworld",
+				icon: {
+					id: "minecraft:grass_block"
+				},
+				id: "6A03F08D0DAEA732",
+				type: "dimension"
+			}],
+			x: 0.5d,
+			y: -2.0d
+		},
+		{
+			dependencies: ["7BA20468B7B79711"],
+			hide_until_deps_complete: false,
+			icon_scale: 1.1d,
+			id: "0717DFFB0D1B3771",
+			rewards: [
+				{
+					count: 8,
+					id: "0D19FC8E670776A2",
+					item: {
+						count: 1,
+						id: "minecraft:coal"
+					},
+					type: "item"
+				},
+				{
+					auto: "enabled",
+					command: "/ftbquests change_progress @p complete 11134B98D4AFA745",
+					icon: {
+						id: "minecraft:furnace"
+					},
+					id: "72F63C4D2E7424E7",
+					ignore_reward_blocking: true,
+					type: "command"
+				}
+			],
+			shape: "square",
+			size: 0.9d,
+			tasks: [{
+				icon: {
+					id: "minecraft:furnace"
+				},
+				id: "26AC830168E2EAC8",
+				item: { count: 1, id: "minecraft:furnace" },
+				type: "item"
+			}],
+			x: 2.0d,
+			y: -0.5d
+		}
+	]
+}

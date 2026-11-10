@@ -1,0 +1,81 @@
+{
+	hide_tooltip: true,
+	id: "63E7F9F412F04E44",
+	loot_size: 1,
+	order_index: 1,
+	rewards: [
+		{
+			count: 5,
+			id: "7E0390CE02A942B8",
+			item: {
+				count: 1,
+				id: "minecraft:oak_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "1E89008DCBF5A5A5",
+			item: {
+				count: 1,
+				id: "minecraft:spruce_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "0BFA54EE52D57411",
+			item: {
+				count: 1,
+				id: "minecraft:birch_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "68948835AE20BDFF",
+			item: {
+				count: 1,
+				id: "minecraft:jungle_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "0C953DDAC773AB8D",
+			item: {
+				count: 1,
+				id: "minecraft:acacia_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "05DFB8C8BC3EE8C1",
+			item: {
+				count: 1,
+				id: "minecraft:dark_oak_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "28C76B7A8566B70D",
+			item: {
+				count: 1,
+				id: "minecraft:pale_oak_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "72D93A949700808A",
+			item: {
+				count: 1,
+				id: "alexscaves:pewen_sapling"
+			}
+		},
+		{
+			count: 5,
+			id: "5555516CD5B855EC",
+			item: {
+				count: 1,
+				id: "alexscaves:ancient_sapling"
+			}
+		}
+	],
+	use_title: true
+}

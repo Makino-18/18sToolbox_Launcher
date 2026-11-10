@@ -1,0 +1,26 @@
+{
+  "id": "flintquests:first_steps",
+  "chapter": "introduction",
+  "title": "First Steps",
+  "description": "Pick up a stick. This example quest can be edited or deleted.",
+  "icon": "minecraft:stick",
+  "nodeShape": "SQUARE",
+  "type": "STANDARD",
+  "x": 0,
+  "y": 0,
+  "hiddenUntilDependencies": false,
+  "dependencyMode": "ALL",
+  "taskMode": "ALL",
+  "dependencies": [],
+  "tasks": [
+    {
+      "id": "get_stick",
+      "type": "OBTAIN_ITEM",
+      "label": "",
+      "target": "minecraft:stick",
+      "count": 1,
+      "optional": false
+    }
+  ],
+  "rewards": []
+}

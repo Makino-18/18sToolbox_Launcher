@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false,
+	default_quest_shape: "",
+	filename: "4D88E65FDECE198C",
+	group: "7C4D70A16C02CCEA",
+	icon: {
+		id: "cratedelight:bread_bag"
+	},
+	id: "4D88E65FDECE198C",
+	images: [ ],
+	order_index: 1,
+	quest_links: [ ],
+	quests: [ ]
+}
