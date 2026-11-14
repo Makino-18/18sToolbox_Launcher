@@ -41,7 +41,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/betteradvancements.json"
     },
     ".minecraft/versions/十八工具箱/config/betterf3.json": {
-      "sha256": "5ac47d811e7fabc05f86261996722b7a811ff775491a6c6107a6340197787dfd",
+      "sha256": "4f3c7b023e103bc533105cad53d1e2f98930ff96fb0fc485024f5e25abc7151c",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/betterf3.json"
     },
     ".minecraft/versions/十八工具箱/config/chatanimation.json": {
@@ -105,7 +105,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/iris-excluded.json"
     },
     ".minecraft/versions/十八工具箱/config/iris.properties": {
-      "sha256": "3aed8906be47373e8da0436434468d3bad12493b81d554bfd0a98ba27440f41e",
+      "sha256": "45df57e11a33a92f06da16a71487bdc2b1f972bbb2dc5263747a176afe5378b3",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/iris.properties"
     },
     ".minecraft/versions/十八工具箱/config/lagdetective.json": {
@@ -113,7 +113,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/lagdetective.json"
     },
     ".minecraft/versions/十八工具箱/config/lambdynlights.toml": {
-      "sha256": "3e0677d0d42bc538de9044df329b80bce71bf6424c6fdb73e81933ab72d934f7",
+      "sha256": "44374587ea28fb4272652bbd9d55c314c24fd46774b0e9dde4b74af092bc4a63",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/lambdynlights.toml"
     },
     ".minecraft/versions/十八工具箱/config/litematica.json": {
@@ -581,7 +581,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/alexsmobs/warped_toad_spawns.json"
     },
     ".minecraft/versions/十八工具箱/config/carpet/default_carpet.conf": {
-      "sha256": "dd95721929538c1db8a851cbaf1fe1b8b2327e5e03f382957814b2c5dc05bbf7",
+      "sha256": "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/carpet/default_carpet.conf"
     },
     ".minecraft/versions/十八工具箱/config/diggusmaximus/config_client.toml": {
@@ -593,7 +593,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/diggusmaximus/config_common.toml"
     },
     ".minecraft/versions/十八工具箱/config/fabric/indigo-renderer.properties": {
-      "sha256": "0f4cec77939be212eb62853ba30344e546c725277e4e47c3d1a79c07590bcce2",
+      "sha256": "e287829a2a22011980606c102d977ba12bf1deb3e7fa977ae56daa77c9f8e6f5",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/fabric/indigo-renderer.properties"
     },
     ".minecraft/versions/十八工具箱/config/flintquests/flintquests.json": {
@@ -637,79 +637,79 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/flintquests/themes/vanilla.json"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapter_groups.snbt": {
-      "sha256": "84125b6b5e4376fb94e0d754e624203b8c93bce0fec33706d67e00548fed6e69",
+      "sha256": "80c4939b0e3b03f3fc2cd36f67eba7496952b6f028d488408ffba7ea37896549",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapter_groups.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/data.snbt": {
-      "sha256": "75e1674a47f0c13bef0354cb452a894de15eb4c988fe9e156eb12cffa4fd9958",
+      "sha256": "cceebcb096ee07a868e06c7f80c288e2668acc8f5ac10926e4f7ef10c34b0fdd",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/data.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/0198EB22D6DC634C.snbt": {
-      "sha256": "5a5b08aefcfbb7a5bc758fd8fb212d143ce9ac211c7a5204b2eb3405e3d0b619",
+      "sha256": "af6af75d2e3057a5867d7ec18941ebfd8ea3f334002542788f83a6e576cc97db",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/0198EB22D6DC634C.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/14190B34A6B5F637.snbt": {
-      "sha256": "8bb1fdcc195c4dc5958113c3d7e851aeb444f5c116ebfe10598f4c4de11e83e8",
+      "sha256": "2ae9fd8d71114d729f981ebfec1d882609c9d4d32d89c9191b04f6750968b264",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/14190B34A6B5F637.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/1BDD282B516C4B7B.snbt": {
-      "sha256": "2b51714ee02a9fe092d8e13670a9bad3adf53be9161aeaebcd84647aabf98611",
+      "sha256": "c8e56f959f700a7f797e43a66b13ce7c2950ea83276de56f304238cfd9908df1",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/1BDD282B516C4B7B.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/2EB9815BE1385605.snbt": {
-      "sha256": "6151775c86d7fe6568ef627515cd0e17f3dee784ea29c8e889ee43c7aabddf8b",
+      "sha256": "b8ebfb083392d0e62ff5e751a86cc039d4d6e9cce820df7c5596c33b3ebae3c3",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/2EB9815BE1385605.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/4D88E65FDECE198C.snbt": {
-      "sha256": "fcbbc02feb06a23cb742863ce3dc62ed2dc8a63df081ef6a344b90592491bdae",
+      "sha256": "9f12927b0e3687a36081c548865310768591b12aaaff2e5706a425568bde280e",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/4D88E65FDECE198C.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/536E5D00FC431EC5.snbt": {
-      "sha256": "1b269844c9bfea1c97728389bca9ede9964be66960c0bcac88fdca4d0f654afa",
+      "sha256": "fca6473e67190e877b6712e9718a808cf317b70d26a7f7dc7a85f7ad237812f1",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/536E5D00FC431EC5.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/581513AA7726C4D5.snbt": {
-      "sha256": "7100cc35bff7a78e9246ed9daa8c98b84e94bd0360a441fb1d3b9aa43ef4b337",
+      "sha256": "ea820461bae60d82ff0a977e640841c4eb1f7a9aa423eba42a82b134b826ed6b",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/581513AA7726C4D5.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/71AF772B47195E4A.snbt": {
-      "sha256": "b2cf96faf6afa466f0ce77beda0414ce4ccf03b821675d3824edbc2118c0f0b2",
+      "sha256": "93a226531f9ed817dbae5e6df419d521130f999c794b844e334b991182bc3a8c",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/71AF772B47195E4A.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/74F3BB3E5E9663EE.snbt": {
-      "sha256": "a85b36a698f98824cea1ef21659fc69160e0a1457f9672265ff02daef79379a7",
+      "sha256": "0a08e660a8a15081b358fda8bca54d3c6215701783edbd12ea3c810423be0a0c",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/74F3BB3E5E9663EE.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/chapters/7644D9128B31C68F.snbt": {
-      "sha256": "ce204243039e1503e3469fc23acdde8497dd32a93faa046fa3d4cd9832f62ca3",
+      "sha256": "f5f9f2c789797a4de33b104a4ab3a5b5b9c962d64ed9c5e8c383d2ece4023904",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/chapters/7644D9128B31C68F.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/lang/en_us.snbt": {
-      "sha256": "05e2ebd3e27853c7ae7c6b75a974b53a2e6c395a01eceb1b9a5c2233860fc0c7",
+      "sha256": "1d6faa9e1a76d13f3ab8558a3640158b1f0a54f624a4e37ddc3ef41ed4191058",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/lang/en_us.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/lang/zh_cn.snbt": {
-      "sha256": "14a3daa56c6f51f75b0227d06adbf2aeef9a36718a8ba448dc86712097a4c3af",
+      "sha256": "e73e4916c09a9855083a35c2dc655807c8274d9d6466ef87447d850328a765f8",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/lang/zh_cn.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/reward_tables/0F525B6A767A1D57.snbt": {
-      "sha256": "df4ccdc389e15fd9e6bd9774c82351f420d57bcfd1ebd841312c1d41c297bf1c",
+      "sha256": "2dd1da0be43d3344ebfc0b3d616326425408d7df00e4d3b62be9170c1af986e5",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/reward_tables/0F525B6A767A1D57.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/reward_tables/27556AC5CE57BE29.snbt": {
-      "sha256": "ebc59fa11cd7fe74bdaf8d51b0245926dad47619e5d4bbeff9f266c8df9119c3",
+      "sha256": "673d9ce3a67431ef77f00561c484b66442dd6440ae8cffaed976bccaf2cccf55",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/reward_tables/27556AC5CE57BE29.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/reward_tables/3EDB20BC13CDDB3D.snbt": {
-      "sha256": "1d11c55aad51649326f6c23f0b65f15cd9f0ad11cef45e030c6a030abb4d9d06",
+      "sha256": "31ca7ec1e08495e50f5889fa2aea8cbf6b14bb871be8f4a8c4d93f59dd45e196",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/reward_tables/3EDB20BC13CDDB3D.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/reward_tables/63E7F9F412F04E44.snbt": {
-      "sha256": "3a89f21217fc1c09a76a06a3ae0e8c4ce0f1c341e89ecdcb7f2d28d27c204144",
+      "sha256": "bc1381f15575c6dfb48894dbdd0b40fece79c0f53e3aa566cc127e62de8edd3a",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/reward_tables/63E7F9F412F04E44.snbt"
     },
     ".minecraft/versions/十八工具箱/config/ftbquests/quests/reward_tables/78D4862F8246077E.snbt": {
-      "sha256": "bbbe1b96f25091498a74dbc72ab6a4a81ffd22bb04cd5d461c2c11633d717e25",
+      "sha256": "25cb1648de479df4f04c07b19f2925f035091bbdad27e7f67c2fcdfd06ac7154",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/ftbquests/quests/reward_tables/78D4862F8246077E.snbt"
     },
     ".minecraft/versions/十八工具箱/config/fwaystones/config.json5": {
@@ -785,35 +785,35 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/blacklist.json"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/ingredient-list-mod-sort-order.ini": {
-      "sha256": "cb73e61b3f6f2af86453dbfa6bbebe12934cf2a51e0fae0eb599408187faab3e",
+      "sha256": "bea250f51e27d34c2a322c44c4c582d0d5b82c095239a847082c34edb342a81e",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/ingredient-list-mod-sort-order.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/ingredient-list-type-sort-order.ini": {
-      "sha256": "dc06c8d7b7bf908c057e1aeb793f2560c3b028d3229d80f3fab1f311f212ce6a",
+      "sha256": "43a1184ff93d9f20a87817badd43048ee9ec271de5124eebae97f814f01cf1bb",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/ingredient-list-type-sort-order.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/recipe-category-sort-order.ini": {
-      "sha256": "f970d6e24341ada8ab357aec7fecc0c99057f0c291d220676d3b2a2b690dde18",
+      "sha256": "cdcd7122c6f8fd3bf815120bde5c35e13800a980b9e846b8c43d2c4724246ed4",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/recipe-category-sort-order.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/default/jei-client.ini": {
-      "sha256": "f673332206ec9b22aea79b66da8f20a192451a2084be1fe9fab97da2755359a5",
+      "sha256": "89a0bc3f3ebca2e647d9a4e3662e9b24aabab6faf0c8b3fb2c3315ce8b791f6e",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/default/jei-client.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/default/jei-colors.ini": {
-      "sha256": "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7",
+      "sha256": "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/default/jei-colors.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/default/jei-debug.ini": {
-      "sha256": "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806",
+      "sha256": "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/default/jei-debug.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/client/default/jei-mod-id-format.ini": {
-      "sha256": "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1",
+      "sha256": "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/client/default/jei-mod-id-format.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/server/world/default/jei-server.ini": {
-      "sha256": "9114cba2f00af4cb002a9b198fe6c2f65a8cb267bda6c6bfc34ca6b5aa66164a",
+      "sha256": "5a2d40849247bc9722960e8fe8ad70239c73b85225163fd175424af36f7fd177",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/jei/server/world/default/jei-server.ini"
     },
     ".minecraft/versions/十八工具箱/config/jei/world/local/任务/lookupHistory.json": {
@@ -913,11 +913,11 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/litematica/litematica_%E8%B5%84%E6%BA%90%E5%8C%85%E6%B5%8B%E8%AF%95_dim_minecraft_overworld.json"
     },
     ".minecraft/versions/十八工具箱/config/mc-province/settings.nbt": {
-      "sha256": "94336108bbbb1c0fc12023b3fd8a407da867aa88bc04f736e6e75839edbc2da7",
+      "sha256": "bc0f1507e77866711f6ecc22800964a7a9b08b3252c0410a4d594e185d07b33d",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/mc-province/settings.nbt"
     },
     ".minecraft/versions/十八工具箱/config/mezz_config/client/default/settings.ini": {
-      "sha256": "1febf6ff1d35f4ffe34d6e5444e3c9496155a6abf3f49eb4ef5650d102645249",
+      "sha256": "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/mezz_config/client/default/settings.ini"
     },
     ".minecraft/versions/十八工具箱/config/minihud/1.21+防小天才全藥品釀藥機v1.1.json": {
@@ -945,7 +945,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/minihud/%E8%B5%84%E6%BA%90%E5%8C%85%E6%B5%8B%E8%AF%95.json"
     },
     ".minecraft/versions/十八工具箱/config/province/worlds/default/unknown.nbt": {
-      "sha256": "12dcea61777b65a59d380f11cb45737da8d095b0bc7b3538b8ec833c9cf1419d",
+      "sha256": "3afd1446a96e512979c8788437c09da296fac4902e66e8ec7fa34543918db3b3",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/province/worlds/default/unknown.nbt"
     },
     ".minecraft/versions/十八工具箱/config/province/worlds/server_cd.2.frp.one_26712/minecraft_overworld.nbt": {
@@ -957,7 +957,7 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/province/worlds/server_cd.2.frp.one_26712/minecraft_the_nether.nbt"
     },
     ".minecraft/versions/十八工具箱/config/province/worlds/server_frp-top.com_37304/minecraft_overworld.nbt": {
-      "sha256": "24cea418d5d46f37f8baf488c356a13c563387f44d6d13cff58c4521b5ae2479",
+      "sha256": "ca1bbb763b509efa115d86db2cff0ddea1f20cfe6bd0a8dd6983061dc7321c50",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/province/worlds/server_frp-top.com_37304/minecraft_overworld.nbt"
     },
     ".minecraft/versions/十八工具箱/config/province/worlds/server_frp-top.com_37304/minecraft_the_end.nbt": {
@@ -1009,11 +1009,11 @@
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/roughlyenoughitems/hints.json"
     },
     ".minecraft/versions/十八工具箱/config/roughlyenoughitems/pinyin.properties": {
-      "sha256": "f5e30f4e713d50f4a73231f399ced4951e7e65422b0d37aba3797c723bb4061e",
+      "sha256": "b600be2d92f7411e4c04614433f612f3884d89f7eca11de77980afa45fd0cb5e",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/roughlyenoughitems/pinyin.properties"
     },
     ".minecraft/versions/十八工具箱/config/roughlyenoughitems/pinyin_double.properties": {
-      "sha256": "2fb31c31e50b8a2fffdb288c12d3e1d7740625cb5cfc84735080116f49318e20",
+      "sha256": "04ca22e7a1fe326e2c34e158cbf79725202b559248558dfe1928a230b4daf288",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/config/roughlyenoughitems/pinyin_double.properties"
     },
     ".minecraft/versions/十八工具箱/config/roughlyenoughitems/unihan.zip": {
@@ -1388,289 +1388,333 @@
       "sha256": "4b336f4730cd040ada122e1fa07514820e6965a89d670ffaa3c9d4137d4b86a0",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/data/serilum/translations/assets/collective/lang/zh_cn.json"
     },
+    ".minecraft/versions/十八工具箱/mods/badpackets-fabric-0.11.2.jar": {
+      "sha256": "9887b6b7bd22977e9aee24238687af89aba0d3e6619560dfd81f28085ee2a0ca",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/badpackets-fabric-0.11.2.jar"
+    },
     ".minecraft/versions/十八工具箱/mods/badpackets.jar": {
       "sha256": "9887b6b7bd22977e9aee24238687af89aba0d3e6619560dfd81f28085ee2a0ca",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/badpackets.jar"
+    },
+    ".minecraft/versions/十八工具箱/mods/connectedglass-1.1.14-fabric-mc1.21.11.jar": {
+      "sha256": "953f5eaa74082ee8db7a575a4f987bed598e97d4f3d8093061d269a1a6a25c46",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/connectedglass-1.1.14-fabric-mc1.21.11.jar"
     },
     ".minecraft/versions/十八工具箱/mods/connectedglass.jar": {
       "sha256": "953f5eaa74082ee8db7a575a4f987bed598e97d4f3d8093061d269a1a6a25c46",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/connectedglass.jar"
     },
+    ".minecraft/versions/十八工具箱/mods/fabric-api-0.141.6+1.21.11.jar": {
+      "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fabric-api-0.141.6%2B1.21.11.jar"
+    },
     ".minecraft/versions/十八工具箱/mods/fabric-api.jar": {
       "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fabric-api.jar"
+    },
+    ".minecraft/versions/十八工具箱/mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar": {
+      "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
     },
     ".minecraft/versions/十八工具箱/mods/fabric-language-kotlin.jar": {
       "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fabric-language-kotlin.jar"
     },
+    ".minecraft/versions/十八工具箱/mods/ftb-filter-system-fabric-21.11.0.jar": {
+      "sha256": "00081ce7fa941c7b9ee7d4cb79023d69d0ffece9779f86ea14f06bf11e1592d5",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-filter-system-fabric-21.11.0.jar"
+    },
     ".minecraft/versions/十八工具箱/mods/ftb-filter-system.jar": {
       "sha256": "00081ce7fa941c7b9ee7d4cb79023d69d0ffece9779f86ea14f06bf11e1592d5",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-filter-system.jar"
+    },
+    ".minecraft/versions/十八工具箱/mods/ftb-library-fabric-2111.1.1.jar": {
+      "sha256": "af80e15c14aa6e5beb050c3c24c92277fe4be868204416f9191bd6e8333d6df4",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-library-fabric-2111.1.1.jar"
     },
     ".minecraft/versions/十八工具箱/mods/ftb-library.jar": {
       "sha256": "af80e15c14aa6e5beb050c3c24c92277fe4be868204416f9191bd6e8333d6df4",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-library.jar"
     },
+    ".minecraft/versions/十八工具箱/mods/ftb-xmod-compat-fabric-21.11.0.jar": {
+      "sha256": "71c97694d9971614cf9d22239ca256a883d140b743c70ff118871ce491d896b5",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-xmod-compat-fabric-21.11.0.jar"
+    },
     ".minecraft/versions/十八工具箱/mods/ftb-xmod-compat.jar": {
       "sha256": "71c97694d9971614cf9d22239ca256a883d140b743c70ff118871ce491d896b5",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/ftb-xmod-compat.jar"
+    },
+    ".minecraft/versions/十八工具箱/mods/fusion-1.3.15-fabric-mc1.21.11.jar": {
+      "sha256": "17b5efbca5743789d408476af578bc34603be788029a344d4d9339c0e3895938",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fusion-1.3.15-fabric-mc1.21.11.jar"
     },
     ".minecraft/versions/十八工具箱/mods/fusion.jar": {
       "sha256": "17b5efbca5743789d408476af578bc34603be788029a344d4d9339c0e3895938",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/fusion.jar"
     },
+    ".minecraft/versions/十八工具箱/mods/libIPN-fabric-1.21.11-6.6.3.jar": {
+      "sha256": "94a52d56ec41e31a98089aeff07baf25534986922d572eac85475b5e2736c9af",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/libIPN-fabric-1.21.11-6.6.3.jar"
+    },
     ".minecraft/versions/十八工具箱/mods/libIPN.jar": {
       "sha256": "94a52d56ec41e31a98089aeff07baf25534986922d572eac85475b5e2736c9af",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/libIPN.jar"
+    },
+    ".minecraft/versions/十八工具箱/mods/mezz_config-1.21.11-fabric-0.6.11.jar": {
+      "sha256": "3957b858d517952a05cb87fd9398df7d527ea47f14f09420e04984c166a8b9b5",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/mezz_config-1.21.11-fabric-0.6.11.jar"
     },
     ".minecraft/versions/十八工具箱/mods/mezz_config.jar": {
       "sha256": "3957b858d517952a05cb87fd9398df7d527ea47f14f09420e04984c166a8b9b5",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/mezz_config.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/Province.jar": {
+    ".minecraft/versions/十八工具箱/mods/Province-0.2.2+1.21.11.jar": {
       "sha256": "522592361c4136ca62edafb0686302d1940bedad18256aea62c93963e4963256",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/Province.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/Province-0.2.2%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/Searchables.jar": {
+    ".minecraft/versions/十八工具箱/mods/Province.jar.part": {
+      "sha256": "c5979d5a18d08293ac9538410682a4ae710bd91d3ffc8b06035d81d8183fe5f2",
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/Province.jar.part"
+    },
+    ".minecraft/versions/十八工具箱/mods/Searchables-fabric-1.21.11-1.0.4.jar": {
       "sha256": "41b45aef9b7950b3b4b4fc2d9161e95c8be3d276fc3acbe299c47d8eac8e7044",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/Searchables.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/Searchables-fabric-1.21.11-1.0.4.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/supermartijn642corelib.jar": {
+    ".minecraft/versions/十八工具箱/mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.11.jar": {
       "sha256": "6308413b396f64f561aa630d3a2ffda7d11afaf360174eae3e1415659d6ef25c",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/supermartijn642corelib.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/supermartijn642corelib-1.1.24a-fabric-mc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/tweakeroo.jar": {
+    ".minecraft/versions/十八工具箱/mods/tweakeroo-fabric-1.21.11-0.27.15.jar": {
       "sha256": "791a865beaac39feeaa558a81cd554974f19060c548102ff4783ac80b3304ca5",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/tweakeroo.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/tweakeroo-fabric-1.21.11-0.27.15.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/wthit.jar": {
+    ".minecraft/versions/十八工具箱/mods/wthit-1.21.11-fabric-18.2.2.jar": {
       "sha256": "17e233989c52b65fd958facbfb87ced5063d97baa53450a81c04affab3ff7bde",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/wthit.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/wthit-1.21.11-fabric-18.2.2.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Alex前置] codxlib.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Alex前置] codxlib-1.6.1-fabric+1.21.11.jar": {
       "sha256": "2e54969b83552cee7f66a64070c4d50b80684088b594b112e152cf22d4bb1082",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E5%89%8D%E7%BD%AE%5D%20codxlib.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E5%89%8D%E7%BD%AE%5D%20codxlib-1.6.1-fabric%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Alex的洞穴] alexscaves.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Alex的洞穴] alexscaves-1.1.2-fabric+1.21.11.jar": {
       "sha256": "7dad0fced0494b5e602178a0d678bcb11ca12c2fb97fe9e23e4377d486b2e9d6",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E7%9A%84%E6%B4%9E%E7%A9%B4%5D%20alexscaves.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E7%9A%84%E6%B4%9E%E7%A9%B4%5D%20alexscaves-1.1.2-fabric%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Alex的生物] alexsmobs.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Alex的生物] alexsmobs-2.2.3-fabric+1.21.11.jar": {
       "sha256": "312d26389468a65b72eafeba11e6d282ef1b7ce472ac0b77ce4f5802b31fba3e",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E7%9A%84%E7%94%9F%E7%89%A9%5D%20alexsmobs.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BAlex%E7%9A%84%E7%94%9F%E7%89%A9%5D%20alexsmobs-2.2.3-fabric%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Fabric 版传送石碑] wraith-waystones.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Fabric 版传送石碑] wraith-waystones-3.3.6+mc1.21.11.jar": {
       "sha256": "f58cb002034171b92635605923e763298e92c43c0d31d5326051bfe85f4ce1fc",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFabric%20%E7%89%88%E4%BC%A0%E9%80%81%E7%9F%B3%E7%A2%91%5D%20wraith-waystones.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFabric%20%E7%89%88%E4%BC%A0%E9%80%81%E7%9F%B3%E7%A2%91%5D%20wraith-waystones-3.3.6%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[FTB 任务] ftb-quests.jar": {
+    ".minecraft/versions/十八工具箱/mods/[FTB 任务] ftb-quests-fabric-2111.1.5.jar": {
       "sha256": "c79eb9d5975d065c61faabe489e358ba493e668a302b1a5a4c15baebddf3dce3",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFTB%20%E4%BB%BB%E5%8A%A1%5D%20ftb-quests.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFTB%20%E4%BB%BB%E5%8A%A1%5D%20ftb-quests-fabric-2111.1.5.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[FTB 团队] ftb-teams.jar": {
+    ".minecraft/versions/十八工具箱/mods/[FTB 团队] ftb-teams-fabric-2111.1.1.jar": {
       "sha256": "a5e2bff43de504c73b2acedf4dea828464a6f09383c08cd8d1f0bdcb8c76057a",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFTB%20%E5%9B%A2%E9%98%9F%5D%20ftb-teams.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BFTB%20%E5%9B%A2%E9%98%9F%5D%20ftb-teams-fabric-2111.1.1.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Gugle的Carpet附加包] gugle-carpet-addition.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Gugle的Carpet附加包] gugle-carpet-addition-v2.12.4+build.88.jar": {
       "sha256": "016f3159a02b2a280062e2f992b640f8ee81d6c0f650db6900716c61e85b5024",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BGugle%E7%9A%84Carpet%E9%99%84%E5%8A%A0%E5%8C%85%5D%20gugle-carpet-addition.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BGugle%E7%9A%84Carpet%E9%99%84%E5%8A%A0%E5%8C%85%5D%20gugle-carpet-addition-v2.12.4%2Bbuild.88.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[JEI物品管理器] jei.jar": {
+    ".minecraft/versions/十八工具箱/mods/[JEI物品管理器] jei-1.21.11-fabric-27.54.0.116.jar": {
       "sha256": "cd23e88a44ccc74f18286d2698aba1d40093a622a30e9e72dda21f01493518c7",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BJEI%E7%89%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%99%A8%5D%20jei.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BJEI%E7%89%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%99%A8%5D%20jei-1.21.11-fabric-27.54.0.116.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Lambd的动态光源] lambdynamiclights.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Lambd的动态光源] lambdynamiclights-4.9.1+1.21.11.jar": {
       "sha256": "99bcfbb13cbd7c98ec9574c2959a1c6a145aac26efed54bcb32ebf08abf9282c",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BLambd%E7%9A%84%E5%8A%A8%E6%80%81%E5%85%89%E6%BA%90%5D%20lambdynamiclights.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BLambd%E7%9A%84%E5%8A%A8%E6%80%81%E5%85%89%E6%BA%90%5D%20lambdynamiclights-4.9.1%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Masa前置库] malilib.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Masa前置库] malilib-fabric-1.21.11-0.27.20.jar": {
       "sha256": "48461c24a560c68afc4042545b654d8d5ea3796a9339681485aed76a326f6ef3",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BMasa%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20malilib.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BMasa%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20malilib-fabric-1.21.11-0.27.20.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Reese的钠视频界面] reeses-sodium-options.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Reese的钠视频界面] reeses-sodium-options-fabric-2.2.0+mc1.21.11.jar": {
       "sha256": "b2021758e357438999efe5b67017674569a0ed28e9c1fc0eb04eae595d9f5371",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BReese%E7%9A%84%E9%92%A0%E8%A7%86%E9%A2%91%E7%95%8C%E9%9D%A2%5D%20reeses-sodium-options.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BReese%E7%9A%84%E9%92%A0%E8%A7%86%E9%A2%91%E7%95%8C%E9%9D%A2%5D%20reeses-sodium-options-fabric-2.2.0%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Xaero玩家位置显示] xaeros-playerposition.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Xaero玩家位置显示] xaeros-playerposition-1.0.0.jar": {
       "sha256": "7f1ef7db9bc5d21fedd2c818506794c03740ad7ae5e991c08e0cd3aca30d7daf",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%8E%A9%E5%AE%B6%E4%BD%8D%E7%BD%AE%E6%98%BE%E7%A4%BA%5D%20xaeros-playerposition.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%8E%A9%E5%AE%B6%E4%BD%8D%E7%BD%AE%E6%98%BE%E7%A4%BA%5D%20xaeros-playerposition-1.0.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Xaero的世界地图] xaeroworldmap.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Xaero的世界地图] xaeroworldmap-fabric-1.21.11-1.45.0.jar": {
       "sha256": "3271602ff218f4f0e854ca3f9fbce69fec509eeab5520a26ada585289d9ce756",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%5D%20xaeroworldmap.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%5D%20xaeroworldmap-fabric-1.21.11-1.45.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[Xaero的小地图] xaerominimap.jar": {
+    ".minecraft/versions/十八工具箱/mods/[Xaero的小地图] xaerominimap-fabric-1.21.11-26.4.2.jar": {
       "sha256": "1d3270e84ac10de101f0bb807371972bbc8eccea91fb9bfdebacd1ec9f36a467",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%9A%84%E5%B0%8F%E5%9C%B0%E5%9B%BE%5D%20xaerominimap.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5BXaero%E7%9A%84%E5%B0%8F%E5%9C%B0%E5%9B%BE%5D%20xaerominimap-fabric-1.21.11-26.4.2.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[一键背包整理Next] InventoryProfilesNext.jar": {
+    ".minecraft/versions/十八工具箱/mods/[一键背包整理Next] InventoryProfilesNext-fabric-1.21.11-2.2.6.jar": {
       "sha256": "1d971f0f624c8f2d2693004aff96cb9546d65e3ab950d63563c769242d2c6474",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B8%80%E9%94%AE%E8%83%8C%E5%8C%85%E6%95%B4%E7%90%86Next%5D%20InventoryProfilesNext.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B8%80%E9%94%AE%E8%83%8C%E5%8C%85%E6%95%B4%E7%90%86Next%5D%20InventoryProfilesNext-fabric-1.21.11-2.2.6.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[万用皮肤补丁] CustomSkinLoader_Universal.jar": {
+    ".minecraft/versions/十八工具箱/mods/[万用皮肤补丁] CustomSkinLoader_Universal-15.1.jar": {
       "sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B8%87%E7%94%A8%E7%9A%AE%E8%82%A4%E8%A1%A5%E4%B8%81%5D%20CustomSkinLoader_Universal.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B8%87%E7%94%A8%E7%9A%AE%E8%82%A4%E8%A1%A5%E4%B8%81%5D%20CustomSkinLoader_Universal-15.1.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[乡村乐事] rusticdelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[乡村乐事] rusticdelight-fabric-1.21.11-1.7.2.jar": {
       "sha256": "46d0c5a5011c773cfadef7c94bd62d2f2aaa1af9ce4e6a98e00b55dfe3d1b174",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B9%A1%E6%9D%91%E4%B9%90%E4%BA%8B%5D%20rusticdelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%B9%A1%E6%9D%91%E4%B9%90%E4%BA%8B%5D%20rusticdelight-fabric-1.21.11-1.7.2.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[传送石碑前置] owo-lib.jar": {
+    ".minecraft/versions/十八工具箱/mods/[传送石碑前置] owo-lib-0.13.0+1.21.11.jar": {
       "sha256": "ded21de3e15288baad8a89f00476cf14427a1bbcdc4b184995dc78ff17e6ac40",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%BC%A0%E9%80%81%E7%9F%B3%E7%A2%91%E5%89%8D%E7%BD%AE%5D%20owo-lib.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%BC%A0%E9%80%81%E7%9F%B3%E7%A2%91%E5%89%8D%E7%BD%AE%5D%20owo-lib-0.13.0%2B1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[伽玛工具] Gamma-Utils.jar": {
+    ".minecraft/versions/十八工具箱/mods/[伽玛工具] Gamma-Utils-2.5.10+mc1.21.11.jar": {
       "sha256": "90a1f671dd6fd784031b9d337c5966f77cdde991dada6296372f6fb4cbd1726f",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%BC%BD%E7%8E%9B%E5%B7%A5%E5%85%B7%5D%20Gamma-Utils.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E4%BC%BD%E7%8E%9B%E5%B7%A5%E5%85%B7%5D%20Gamma-Utils-2.5.10%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[农夫乐事：重织] FarmersDelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[农夫乐事：重织] FarmersDelight-1.21.11-3.6.16+refabricated.jar": {
       "sha256": "0cf49e7251a018acaa0cc4d3b394b3b311a2457910200697001b9aeb404c072d",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%86%9C%E5%A4%AB%E4%B9%90%E4%BA%8B%EF%BC%9A%E9%87%8D%E7%BB%87%5D%20FarmersDelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%86%9C%E5%A4%AB%E4%B9%90%E4%BA%8B%EF%BC%9A%E9%87%8D%E7%BB%87%5D%20FarmersDelight-1.21.11-3.6.16%2Brefabricated.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[前置库] architectury.jar": {
+    ".minecraft/versions/十八工具箱/mods/[前置库] architectury-19.0.1-fabric.jar": {
       "sha256": "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20architectury.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20architectury-19.0.1-fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[前置库] cloth-config.jar": {
+    ".minecraft/versions/十八工具箱/mods/[前置库] cloth-config-21.11.153-fabric.jar": {
       "sha256": "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20cloth-config.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20cloth-config-21.11.153-fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[前置库] collective.jar": {
+    ".minecraft/versions/十八工具箱/mods/[前置库] collective-1.21.11-8.32.jar": {
       "sha256": "12a2939ff79da6f4dcfc8870a243995554acf868ef8b5fd604ccd0ddb5f5d0c3",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20collective.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%89%8D%E7%BD%AE%E5%BA%93%5D%20collective-1.21.11-8.32.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[地图同步推送] mapsyncer.jar": {
+    ".minecraft/versions/十八工具箱/mods/[地图同步推送] mapsyncer-1.0.3-fabric-1.21.11-bugfix.jar": {
       "sha256": "999a38b0fce5262bcbd90a7eec9c6bc464c4f99602c2a207b57fd774b2ec5b15",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%9C%B0%E5%9B%BE%E5%90%8C%E6%AD%A5%E6%8E%A8%E9%80%81%5D%20mapsyncer.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%9C%B0%E5%9B%BE%E5%90%8C%E6%AD%A5%E6%8E%A8%E9%80%81%5D%20mapsyncer-1.0.3-fabric-1.21.11-bugfix.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[地毯] fabric-carpet.jar": {
+    ".minecraft/versions/十八工具箱/mods/[地毯] fabric-carpet-1.21.11-1.4.194+v251223.jar": {
       "sha256": "1b4d66f0332bda5deee08755e493c2d6ac64d64d5285e1134aa03604975c2521",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%9C%B0%E6%AF%AF%5D%20fabric-carpet.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%9C%B0%E6%AF%AF%5D%20fabric-carpet-1.21.11-1.4.194%2Bv251223.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[复活节乐事] eastersdelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[复活节乐事] eastersdelight-fabric-1.21.11-1.1.0.jar": {
       "sha256": "e9c7946a4d5d6023ab351814be9f24ee7bb64321fafdf4a66d16464701086b12",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%A4%8D%E6%B4%BB%E8%8A%82%E4%B9%90%E4%BA%8B%5D%20eastersdelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%A4%8D%E6%B4%BB%E8%8A%82%E4%B9%90%E4%BA%8B%5D%20eastersdelight-fabric-1.21.11-1.1.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[多趣乐事] moredelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[多趣乐事] moredelight-25.12.10-1.21.11-fabric.jar": {
       "sha256": "295cadc0eab2d7976a9e54576c5e6f1b545e508dbb4b4a018fcc10a4c1cc2ce9",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%A4%9A%E8%B6%A3%E4%B9%90%E4%BA%8B%5D%20moredelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%A4%9A%E8%B6%A3%E4%B9%90%E4%BA%8B%5D%20moredelight-25.12.10-1.21.11-fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[字幕高亮非官方重置版] shur.jar": {
+    ".minecraft/versions/十八工具箱/mods/[字幕高亮非官方重置版] shur-1.0.3-rc.1-1.21.11 Fabric.jar": {
       "sha256": "34610020677c4e57d0c2ce09c735d3163f2702688f6435740967a5e1e8dccaaf",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%AD%97%E5%B9%95%E9%AB%98%E4%BA%AE%E9%9D%9E%E5%AE%98%E6%96%B9%E9%87%8D%E7%BD%AE%E7%89%88%5D%20shur.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%AD%97%E5%B9%95%E9%AB%98%E4%BA%AE%E9%9D%9E%E5%AE%98%E6%96%B9%E9%87%8D%E7%BD%AE%E7%89%88%5D%20shur-1.0.3-rc.1-1.21.11%20Fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[存储乐事] storagedelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[存储乐事] storagedelight-26.07.01-1.21.11-fabric.jar": {
       "sha256": "0d6b1fc0e022bd5f7b1b9375008a9265219e29a149b0bdb155029ed30f93e27f",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%AD%98%E5%82%A8%E4%B9%90%E4%BA%8B%5D%20storagedelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%AD%98%E5%82%A8%E4%B9%90%E4%BA%8B%5D%20storagedelight-26.07.01-1.21.11-fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[展览乐事] display-delight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[展览乐事] display-delight-1.8.0-mc1.21.11.jar": {
       "sha256": "bdada08aebb88f0a37aab6e91fdc437bc3b7d8d057c3eefcf315dc8f128dc9b8",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B1%95%E8%A7%88%E4%B9%90%E4%BA%8B%5D%20display-delight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B1%95%E8%A7%88%E4%B9%90%E4%BA%8B%5D%20display-delight-1.8.0-mc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[席地而坐] sit.jar": {
+    ".minecraft/versions/十八工具箱/mods/[席地而坐] sit-1.21.11-29.jar": {
       "sha256": "094dec5b61f1c60e6e82b01d68f5e079f05a63a460a32e0438a0955758a23746",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B8%AD%E5%9C%B0%E8%80%8C%E5%9D%90%5D%20sit.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B8%AD%E5%9C%B0%E8%80%8C%E5%9D%90%5D%20sit-1.21.11-29.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[平滑滚动] smoothscroll.jar": {
+    ".minecraft/versions/十八工具箱/mods/[平滑滚动] smoothscroll-2.6.7.jar": {
       "sha256": "2bec22e24e42d07b73285220833a2004aaf55f0ba8d96a7f2d9abcc0b219b05d",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B9%B3%E6%BB%91%E6%BB%9A%E5%8A%A8%5D%20smoothscroll.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%B9%B3%E6%BB%91%E6%BB%9A%E5%8A%A8%5D%20smoothscroll-2.6.7.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[建筑工具] jakes-build-tools.jar": {
+    ".minecraft/versions/十八工具箱/mods/[建筑工具] jakes-build-tools-v4.0.7.jar": {
       "sha256": "2af92ed761e45c9beb91c9aa7742698eb7e43fb6c1ffc32e9e657d97ca54a63f",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%BB%BA%E7%AD%91%E5%B7%A5%E5%85%B7%5D%20jakes-build-tools.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E5%BB%BA%E7%AD%91%E5%B7%A5%E5%85%B7%5D%20jakes-build-tools-v4.0.7.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[性能监测] lagdetective.jar": {
+    ".minecraft/versions/十八工具箱/mods/[性能监测] lagdetective-1.0.0.jar": {
       "sha256": "17929e783aafc443c3abf1f0f701786814ed4febea418329f9fb239b26bc43e8",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%80%A7%E8%83%BD%E7%9B%91%E6%B5%8B%5D%20lagdetective.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%80%A7%E8%83%BD%E7%9B%91%E6%B5%8B%5D%20lagdetective-1.0.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[惊悚乐事] frightsdelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[惊悚乐事] frightsdelight-fabric-1.21.11-1.4.7.jar": {
       "sha256": "9bd5e55c8c5bb4d57ce5f6c1ee496d41b475b4bbfc85fd632c8d267e7d116e82",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%83%8A%E6%82%9A%E4%B9%90%E4%BA%8B%5D%20frightsdelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%83%8A%E6%82%9A%E4%B9%90%E4%BA%8B%5D%20frightsdelight-fabric-1.21.11-1.4.7.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[投影] litematica.jar": {
+    ".minecraft/versions/十八工具箱/mods/[投影] litematica-fabric-1.21.11-0.26.16.jar": {
       "sha256": "69df83a3d229a1fe77ddbeb54071a5ac07c2284ed4d623ea075d04e5f0a6d328",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%8A%95%E5%BD%B1%5D%20litematica.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%8A%95%E5%BD%B1%5D%20litematica-fabric-1.21.11-0.26.16.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[文本占位符 API] placeholder-api.jar": {
+    ".minecraft/versions/十八工具箱/mods/[文本占位符 API] placeholder-api-2.8.2+1.21.10.jar": {
       "sha256": "975c7e575c27bf6fa82baaf8cd7645051a298f74bf95cf58092b104dd21de5ed",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%96%87%E6%9C%AC%E5%8D%A0%E4%BD%8D%E7%AC%A6%20API%5D%20placeholder-api.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%96%87%E6%9C%AC%E5%8D%A0%E4%BD%8D%E7%AC%A6%20API%5D%20placeholder-api-2.8.2%2B1.21.10.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[更好的F3] BetterF3.jar": {
+    ".minecraft/versions/十八工具箱/mods/[更好的F3] BetterF3-17.0.0-Fabric-1.21.11.jar": {
       "sha256": "5afd333a11c012592d518de607cd0f8efa815316e5d9c5625c72efcffaab0943",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84F3%5D%20BetterF3.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84F3%5D%20BetterF3-17.0.0-Fabric-1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[更好的图腾] inventorytotem.jar": {
+    ".minecraft/versions/十八工具箱/mods/[更好的图腾] inventorytotem-1.21.11-3.4.jar": {
       "sha256": "0cf5470536b6e8963fb7542ec2a29a81d5fb05fe4d98bbf9ed0a3da29a8370e4",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%9B%BE%E8%85%BE%5D%20inventorytotem.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%9B%BE%E8%85%BE%5D%20inventorytotem-1.21.11-3.4.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[更好的进度] BetterAdvancements-Fabric.jar": {
+    ".minecraft/versions/十八工具箱/mods/[更好的进度] BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar": {
       "sha256": "9d89a038155d70b17664239513a594b3c17da8a9c80d8c95b9f07252e119b5c4",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%5D%20BetterAdvancements-Fabric.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%BF%9B%E5%BA%A6%5D%20BetterAdvancements-Fabric-1.21.11-0.4.8.54.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[模组菜单] modmenu.jar": {
+    ".minecraft/versions/十八工具箱/mods/[模组菜单] modmenu-17.0.0.jar": {
       "sha256": "95f2c9571ca4a1e30d473783ed909c6b9d997b0b3e1418ea189cad73282c5128",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%A8%A1%E7%BB%84%E8%8F%9C%E5%8D%95%5D%20modmenu.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E6%A8%A1%E7%BB%84%E8%8F%9C%E5%8D%95%5D%20modmenu-17.0.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[耐久指示器更新版] DurabilityViewer.jar": {
+    ".minecraft/versions/十八工具箱/mods/[耐久指示器更新版] DurabilityViewer-1.21.11-1.11.2.jar": {
       "sha256": "8b729a1966a072329ccd0441c175b8edfd770ae04db14277cf46655b16737e6e",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%80%90%E4%B9%85%E6%8C%87%E7%A4%BA%E5%99%A8%E6%9B%B4%E6%96%B0%E7%89%88%5D%20DurabilityViewer.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%80%90%E4%B9%85%E6%8C%87%E7%A4%BA%E5%99%A8%E6%9B%B4%E6%96%B0%E7%89%88%5D%20DurabilityViewer-1.21.11-1.11.2.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[聊天动画] chatanimation.jar": {
+    ".minecraft/versions/十八工具箱/mods/[聊天动画] chatanimation-fabric-1.2.0+mc1.21.11.jar": {
       "sha256": "e28a2bf48aeab339977b02a9f24d312e9d49110fa963e95993ccf455eeb68352",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%81%8A%E5%A4%A9%E5%8A%A8%E7%94%BB%5D%20chatanimation.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%81%8A%E5%A4%A9%E5%8A%A8%E7%94%BB%5D%20chatanimation-fabric-1.2.0%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[聊天头像] chat_heads.jar": {
+    ".minecraft/versions/十八工具箱/mods/[聊天头像] chat_heads-1.2.4-fabric-1.21.11.jar": {
       "sha256": "2435d271aa7ee62fb5ad9b71511a82e588ce9fc8b17c77d3d418ff7e93bc2e65",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%81%8A%E5%A4%A9%E5%A4%B4%E5%83%8F%5D%20chat_heads.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%81%8A%E5%A4%A9%E5%A4%B4%E5%83%8F%5D%20chat_heads-1.2.4-fabric-1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[自动切换工具] autoswitch.jar": {
+    ".minecraft/versions/十八工具箱/mods/[自动切换工具] autoswitch-fabric-14.1.0.jar": {
       "sha256": "122a8437f0c7dc7e1d6b0e83d6bcadf9d5410aedaafb5de1acbd640efa05b754",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E5%B7%A5%E5%85%B7%5D%20autoswitch.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E5%B7%A5%E5%85%B7%5D%20autoswitch-fabric-14.1.0.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[自动汉化更新] I18nUpdateMod.jar": {
+    ".minecraft/versions/十八工具箱/mods/[自动汉化更新] I18nUpdateMod-3.7.0-all.jar": {
       "sha256": "66fc7f6debca5bfe6d7c6aa392f6e23a712dc018ae71cbb6e0b214ff6a28142d",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%87%AA%E5%8A%A8%E6%B1%89%E5%8C%96%E6%9B%B4%E6%96%B0%5D%20I18nUpdateMod.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%87%AA%E5%8A%A8%E6%B1%89%E5%8C%96%E6%9B%B4%E6%96%B0%5D%20I18nUpdateMod-3.7.0-all.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[苹果皮] appleskin.jar": {
+    ".minecraft/versions/十八工具箱/mods/[苹果皮] appleskin-fabric-mc1.21.11-3.0.8.jar": {
       "sha256": "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%8B%B9%E6%9E%9C%E7%9A%AE%5D%20appleskin.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%8B%B9%E6%9E%9C%E7%9A%AE%5D%20appleskin-fabric-mc1.21.11-3.0.8.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[装箱乐事] cratedelight.jar": {
+    ".minecraft/versions/十八工具箱/mods/[装箱乐事] cratedelight-26.07.01-1.21.7-fabric.jar": {
       "sha256": "38fe51f39df680120863a0a0bc1890e40c93e81db1a1f7fb8d93c50034a5f112",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%A3%85%E7%AE%B1%E4%B9%90%E4%BA%8B%5D%20cratedelight.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%A3%85%E7%AE%B1%E4%B9%90%E4%BA%8B%5D%20cratedelight-26.07.01-1.21.7-fabric.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[输入法冲突修复] IMBlocker.jar": {
+    ".minecraft/versions/十八工具箱/mods/[输入法冲突修复] IMBlocker-6.1.4-fabric+1.21.9-1.21.11.jar": {
       "sha256": "7e579b741ee623624658d7c92622324e82bf7049de7df3ff3b245da74a609c97",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BE%93%E5%85%A5%E6%B3%95%E5%86%B2%E7%AA%81%E4%BF%AE%E5%A4%8D%5D%20IMBlocker.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BE%93%E5%85%A5%E6%B3%95%E5%86%B2%E7%AA%81%E4%BF%AE%E5%A4%8D%5D%20IMBlocker-6.1.4-fabric%2B1.21.9-1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[连锁挖掘重制版] diggus-maximus.jar": {
+    ".minecraft/versions/十八工具箱/mods/[连锁挖掘重制版] diggus-maximus-fabric-1.7.9+mc1.21.11.jar": {
       "sha256": "329de07141e5832c3bcee1e807dde929ea969fd3ab280d8de9d69f2e25b38a7e",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BF%9E%E9%94%81%E6%8C%96%E6%8E%98%E9%87%8D%E5%88%B6%E7%89%88%5D%20diggus-maximus.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BF%9E%E9%94%81%E6%8C%96%E6%8E%98%E9%87%8D%E5%88%B6%E7%89%88%5D%20diggus-maximus-fabric-1.7.9%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[迷你HUD] minihud.jar": {
+    ".minecraft/versions/十八工具箱/mods/[迷你HUD] minihud-fabric-1.21.11-0.38.16.jar": {
       "sha256": "5c3df046a5962c4f8cc8190dbb092470448a009c5fe38ae586b1fc4346cccd3d",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BF%B7%E4%BD%A0HUD%5D%20minihud.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E8%BF%B7%E4%BD%A0HUD%5D%20minihud-fabric-1.21.11-0.38.16.jar"
     },
     ".minecraft/versions/十八工具箱/mods/[通用模组汉化器] zz-Universal_Mod_Localizer_2.0.3.jar": {
       "sha256": "50075fb00082f9ee2b2afc4329abc78be82563aa3fc6b11b33f84ec4091da9e2",
       "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%80%9A%E7%94%A8%E6%A8%A1%E7%BB%84%E6%B1%89%E5%8C%96%E5%99%A8%5D%20zz-Universal_Mod_Localizer_2.0.3.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[钠 · 扩展] sodium-extra.jar": {
+    ".minecraft/versions/十八工具箱/mods/[钠 · 扩展] sodium-extra-fabric-0.9.1+mc1.21.11.jar": {
       "sha256": "066fa0c090951e228ec9db5aa31696efe545b3c7cbcda4674d8d1a9362eee6ab",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%92%A0%20%C2%B7%20%E6%89%A9%E5%B1%95%5D%20sodium-extra.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%92%A0%20%C2%B7%20%E6%89%A9%E5%B1%95%5D%20sodium-extra-fabric-0.9.1%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[钠] sodium.jar": {
+    ".minecraft/versions/十八工具箱/mods/[钠] sodium-fabric-0.8.15-beta.1+mc1.21.11.jar": {
       "sha256": "f0bd613154a9ed0712d1d8aa62f1de3fb0fc1e76b4edc37f1250679007029775",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%92%A0%5D%20sodium.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%92%A0%5D%20sodium-fabric-0.8.15-beta.1%2Bmc1.21.11.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[键位冲突显示] Controlling.jar": {
+    ".minecraft/versions/十八工具箱/mods/[键位冲突显示] Controlling-fabric-1.21.11-29.0.1.jar": {
       "sha256": "13f6111514115d540ef16c76b2a21c80ddae3657f129488970abe2d73a5fa26f",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%94%AE%E4%BD%8D%E5%86%B2%E7%AA%81%E6%98%BE%E7%A4%BA%5D%20Controlling.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%94%AE%E4%BD%8D%E5%86%B2%E7%AA%81%E6%98%BE%E7%A4%BA%5D%20Controlling-fabric-1.21.11-29.0.1.jar"
     },
-    ".minecraft/versions/十八工具箱/mods/[鼠标手势] MouseTweaks.jar": {
+    ".minecraft/versions/十八工具箱/mods/[鼠标手势] MouseTweaks-fabric-mc1.21.11-2.30.jar": {
       "sha256": "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6",
-      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%5D%20MouseTweaks.jar"
+      "url": "https://raw.githubusercontent.com/Makino-18/18sToolbox_Launcher/main/.minecraft/versions/%E5%8D%81%E5%85%AB%E5%B7%A5%E5%85%B7%E7%AE%B1/mods/%5B%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%5D%20MouseTweaks-fabric-mc1.21.11-2.30.jar"
     },
     ".minecraft/versions/十八工具箱/PCL/config.json": {
       "sha256": "a4bd4e2fae5c1cfab6a61f1c34ace6d8d2ecfad3c0e5d54df35287c0acfb6ed0",
