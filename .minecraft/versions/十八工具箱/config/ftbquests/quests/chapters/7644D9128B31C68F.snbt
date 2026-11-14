@@ -75,12 +75,21 @@
 		},
 		{
 			dependencies: ["1E52A1A068BF218B"],
+			disable_toast: true,
 			hide_until_deps_complete: true,
 			icon: {
 				id: "minecraft:netherrack"
 			},
 			id: "11134B98D4AFA745",
 			shape: "hexagon",
+			tasks: [{
+				disable_toast: true,
+				icon: {
+					id: "minecraft:netherrack"
+				},
+				id: "352A4475C6A00DCF",
+				type: "custom"
+			}],
 			x: 0.0d,
 			y: -4.0d
 		}

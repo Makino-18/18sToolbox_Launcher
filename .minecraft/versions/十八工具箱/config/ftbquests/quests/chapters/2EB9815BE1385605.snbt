@@ -144,13 +144,23 @@
 		},
 		{
 			dependencies: ["0717DFFB0D1B3771"],
+			disable_toast: true,
 			hide_until_deps_complete: true,
 			icon: {
 				id: "minecraft:furnace"
 			},
+			icon_scale: 1.1d,
 			id: "16B047EB9FA093F2",
 			shape: "square",
 			size: 0.9d,
+			tasks: [{
+				disable_toast: true,
+				icon: {
+					id: "minecraft:furnace"
+				},
+				id: "0B19317D9EFD6028",
+				type: "custom"
+			}],
 			x: 1.5d,
 			y: -3.0d
 		}

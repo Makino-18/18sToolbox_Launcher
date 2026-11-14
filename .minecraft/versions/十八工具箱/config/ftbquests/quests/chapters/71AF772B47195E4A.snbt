@@ -1,4 +1,5 @@
 {
+	autofocus_id: "39B3532B72B5D755",
 	default_hide_dependency_lines: false,
 	default_quest_shape: "",
 	filename: "71AF772B47195E4A",
@@ -10,5 +11,23 @@
 	images: [ ],
 	order_index: 1,
 	quest_links: [ ],
-	quests: [ ]
+	quests: [{
+		disable_toast: true,
+		icon: {
+			id: "minecraft:wheat"
+		},
+		id: "39B3532B72B5D755",
+		shape: "square",
+		size: 0.9d,
+		tasks: [{
+			disable_toast: true,
+			icon: {
+				id: "minecraft:wheat"
+			},
+			id: "5DA186F2C4377779",
+			type: "custom"
+		}],
+		x: 0.0d,
+		y: 0.0d
+	}]
 }

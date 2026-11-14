@@ -10,16 +10,41 @@
 	images: [ ],
 	order_index: 3,
 	quest_links: [ ],
-	quests: [{
-		dependencies: ["5094D54B87A4AABF"],
-		disable_toast: true,
-		hide_until_deps_complete: true,
-		icon: {
-			id: "minecraft:end_stone"
+	quests: [
+		{
+			dependencies: ["5094D54B87A4AABF"],
+			disable_toast: true,
+			hide_until_deps_complete: true,
+			icon: {
+				id: "minecraft:end_stone"
+			},
+			id: "50FA2D42ABEAA754",
+			shape: "hexagon",
+			tasks: [{
+				icon: {
+					id: "minecraft:end_stone"
+				},
+				id: "0B98DBCBF881BC10",
+				type: "custom"
+			}],
+			x: 0.0d,
+			y: -2.0d
 		},
-		id: "50FA2D42ABEAA754",
-		shape: "hexagon",
-		x: 0.0d,
-		y: -2.0d
-	}]
+		{
+			dependencies: ["50FA2D42ABEAA754"],
+			icon: {
+				id: "minecraft:dragon_head"
+			},
+			id: "16C58FC16A166188",
+			tasks: [{
+				disable_toast: true,
+				entity: "minecraft:ender_dragon",
+				id: "1D64273AA5647847",
+				type: "kill",
+				value: 1L
+			}],
+			x: 0.0d,
+			y: -0.5d
+		}
+	]
 }

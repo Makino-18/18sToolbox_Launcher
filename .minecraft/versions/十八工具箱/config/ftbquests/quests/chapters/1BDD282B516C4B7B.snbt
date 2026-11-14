@@ -21,6 +21,8 @@
 			],
 			hide_dependency_lines: true,
 			id: "40F54B1D2D4814A4",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [{
 				count: 2,
 				id: "54DC45824C606650",
@@ -60,8 +62,8 @@
 				id: "minecraft:ice"
 			},
 			id: "39A685D95CE3E3D7",
-			progression_mode: "flexible",
-			require_sequential_tasks: false,
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [{
 				count: 3,
 				id: "6764D9742B00FA26",
@@ -98,6 +100,8 @@
 				id: "minecraft:jungle_sapling"
 			},
 			id: "1E9150E14BFF0E0D",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [
 				{
 					count: 5,
@@ -136,6 +140,8 @@
 			],
 			hide_dependency_lines: true,
 			id: "453FD947EF132D51",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [{
 				count: 60,
 				id: "6C04E190B1B0F76E",
@@ -162,6 +168,8 @@
 				"366B08B52E355BCB"
 			],
 			id: "50382CD5BC4C1E57",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [
 				{
 					count: 16,
@@ -208,6 +216,8 @@
 				"366B08B52E355BCB"
 			],
 			id: "432237E4C5664744",
+			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [
 				{
 					count: 16,
@@ -251,6 +261,7 @@
 			],
 			id: "37B652797588472D",
 			progression_mode: "linear",
+			require_sequential_tasks: true,
 			rewards: [{
 				count: 32,
 				id: "5CB3D8A51B561053",
@@ -273,6 +284,7 @@
 		},
 		{
 			dependencies: ["2359016D93C62F73"],
+			disable_toast: true,
 			hide_until_deps_complete: true,
 			icon: {
 				id: "minecraft:grass_block"
@@ -280,6 +292,13 @@
 			id: "366B08B52E355BCB",
 			invisible: true,
 			shape: "hexagon",
+			tasks: [{
+				icon: {
+					id: "minecraft:grass_block"
+				},
+				id: "0898714F83CC84D9",
+				type: "custom"
+			}],
 			x: -1.0d,
 			y: -6.5d
 		}

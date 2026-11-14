@@ -12,6 +12,16 @@
 	quest_links: [ ],
 	quests: [{
 		id: "012F0FCBBF1BA1B8",
+		rewards: [{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/accept.png"
+				},
+				id: "ftbquests:custom_icon"
+			},
+			id: "15128100E444F255",
+			type: "custom"
+		}],
 		tasks: [{
 			id: "036C3139AD6D8855",
 			type: "checkmark"
